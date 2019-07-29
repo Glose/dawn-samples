@@ -1,0 +1,16 @@
+#!/usr/bin/python3
+
+import lxml.html
+import urllib.request
+
+
+with urllib.request.urlopen('http://idpf.github.io/epub3-samples/30/samples.html') as f:
+	index = f.read()
+soup = lxml.html.fromstring(index)
+for a in soup.xpath('//a[contains(@href, ".epub")]'):
+	href = a.get('href')
+	_, fn = href.rsplit('/', 1)
+	with \
+		urllib.request.urlopen(href) as s, \
+		open('data/{}'.format(fn), 'wb') as d:
+		d.write(s.read())
