@@ -186,15 +186,125 @@
             },
             {
                 "href": "1.html",
-                "title": "Acte I"
+                "title": "Acte I",
+                "children": [
+                    {
+                        "href": "1.html",
+                        "title": "Sc\u00e8ne I"
+                    },
+                    {
+                        "href": "2.html",
+                        "title": "Sc\u00e8ne II"
+                    },
+                    {
+                        "href": "3.html",
+                        "title": "Sc\u00e8ne III"
+                    },
+                    {
+                        "href": "4.html",
+                        "title": "Sc\u00e8ne IV"
+                    },
+                    {
+                        "href": "5.html",
+                        "title": "Sc\u00e8ne V"
+                    }
+                ]
             },
             {
                 "href": "6.html",
-                "title": "Acte II"
+                "title": "Acte II",
+                "children": [
+                    {
+                        "href": "6.html",
+                        "title": "Sc\u00e8ne I"
+                    },
+                    {
+                        "href": "7.html",
+                        "title": "Sc\u00e8ne II"
+                    },
+                    {
+                        "href": "8.html",
+                        "title": "Sc\u00e8ne III"
+                    },
+                    {
+                        "href": "9.html",
+                        "title": "Sc\u00e8ne IV"
+                    },
+                    {
+                        "href": "10.html",
+                        "title": "Sc\u00e8ne V"
+                    },
+                    {
+                        "href": "11.html",
+                        "title": "Sc\u00e8ne VI"
+                    },
+                    {
+                        "href": "12.html",
+                        "title": "Sc\u00e8ne VII"
+                    },
+                    {
+                        "href": "13.html",
+                        "title": "Sc\u00e8ne VIII"
+                    }
+                ]
             },
             {
                 "href": "14.html",
-                "title": "Acte III"
+                "title": "Acte III",
+                "children": [
+                    {
+                        "href": "14.html",
+                        "title": "Sc\u00e8ne I"
+                    },
+                    {
+                        "href": "15.html",
+                        "title": "Sc\u00e8ne II"
+                    },
+                    {
+                        "href": "16.html",
+                        "title": "Sc\u00e8ne III"
+                    },
+                    {
+                        "href": "17.html",
+                        "title": "Sc\u00e8ne IV"
+                    },
+                    {
+                        "href": "18.html",
+                        "title": "Sc\u00e8ne V"
+                    },
+                    {
+                        "href": "19.html",
+                        "title": "Sc\u00e8ne VI"
+                    },
+                    {
+                        "href": "20.html",
+                        "title": "Sc\u00e8ne VII"
+                    },
+                    {
+                        "href": "21.html",
+                        "title": "Sc\u00e8ne VIII"
+                    },
+                    {
+                        "href": "22.html",
+                        "title": "Sc\u00e8ne IX"
+                    },
+                    {
+                        "href": "23.html",
+                        "title": "Sc\u00e8ne X"
+                    },
+                    {
+                        "href": "24.html",
+                        "title": "Sc\u00e8ne XI"
+                    },
+                    {
+                        "href": "25.html",
+                        "title": "Sc\u00e8ne XII"
+                    },
+                    {
+                        "href": "26.html",
+                        "title": "Sc\u00e8ne derni\u00e8re"
+                    }
+                ]
             }
         ]
     ],
