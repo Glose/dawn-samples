@@ -11,11 +11,6 @@
         "idloft"
     ],
     "manifest": {
-        "nav": [
-            "nav",
-            "nav.xhtml",
-            "application/xhtml+xml"
-        ],
         "ncx": [
             "ncx",
             "toc.ncx",
@@ -194,7 +189,88 @@
     },
     "toc": [
         null,
-        []
+        [
+            {
+                "href": "0001.xhtml",
+                "title": "EPUB\u30ea\u30fc\u30c0\u306e\u6570\u5f0f\u30b5\u30dd\u30fc\u30c8\u2015iBooks3.0\u306eMathML\u8868\u793a\u304c\u304b\u306a\u308a\u9032\u5316",
+                "children": [
+                    {
+                        "href": "0001.xhtml#h.0001.iBooks3_2e0\u306b\u3088\u308b\u8868\u793a\u4f8b",
+                        "title": "iBooks3.0\u306b\u3088\u308b\u8868\u793a\u4f8b"
+                    },
+                    {
+                        "href": "0001.xhtml#h.0001.Readium\u306b\u3088\u308bMathML\u306e\u8868\u793a",
+                        "title": "Readium\u306b\u3088\u308bMathML\u306e\u8868\u793a"
+                    },
+                    {
+                        "href": "0001.xhtml#h.0001.\u7dcf\u5408\u7684\u306b\u307f\u3066",
+                        "title": "\u7dcf\u5408\u7684\u306b\u307f\u3066"
+                    }
+                ]
+            },
+            {
+                "href": "0005.xhtml",
+                "title": "EPUB\u306e\u30d9\u30b9\u30c8\u30d7\u30e9\u30af\u30c6\u30a3\u30b9 linear \u5c5e\u6027\u306e\u8a2d\u5b9a\u65b9\u6cd5",
+                "children": [
+                    {
+                        "href": "0005.xhtml#h.0005.EPUB2",
+                        "title": "EPUB2"
+                    },
+                    {
+                        "href": "0005.xhtml#h.0005.EPUB3",
+                        "title": "EPUB3"
+                    }
+                ]
+            },
+            {
+                "href": "0006.xhtml",
+                "title": "EPUB\u306e\u30d9\u30b9\u30c8\u30d7\u30e9\u30af\u30c6\u30a3\u30b9 EPUB2\u7528\u306e\u76ee\u6b21NCX\u306e\u51fa\u529b\u306f\u307e\u3060\u5fc5\u8981\u304b\uff1f",
+                "children": [
+                    {
+                        "href": "0006.xhtml#h.0006.EPUB2",
+                        "title": "EPUB2"
+                    },
+                    {
+                        "href": "0006.xhtml#h.0006.EPUB3",
+                        "title": "EPUB3"
+                    },
+                    {
+                        "href": "0006.xhtml#h.0006.Kindle_20Paperwhite\u3067\u306e\u78ba\u8a8d\u7d50\u679c",
+                        "title": "Kindle\n                                Paperwhite\u3067\u306e\u78ba\u8a8d\u7d50\u679c"
+                    }
+                ]
+            },
+            {
+                "href": "0007.xhtml",
+                "title": "EPUB\u306e\u30d9\u30b9\u30c8\u30d7\u30e9\u30af\u30c6\u30a3\u30b9 \u30ab\u30d0\u30fc\u753b\u50cf\u306e\u767b\u9332\u65b9\u6cd5",
+                "children": [
+                    {
+                        "href": "0007.xhtml#h.0007.EPUB2",
+                        "title": "EPUB2"
+                    },
+                    {
+                        "href": "0007.xhtml#h.0007.EPUB3",
+                        "title": "EPUB3"
+                    },
+                    {
+                        "href": "0007.xhtml#h.0007.Kindle",
+                        "title": "Kindle"
+                    },
+                    {
+                        "href": "0007.xhtml#h.0007.\u307e\u3068\u3081",
+                        "title": "\u307e\u3068\u3081"
+                    }
+                ]
+            },
+            {
+                "href": "xnotes.xhtml",
+                "title": "\u6ce8\u91c8\u4e00\u89a7"
+            },
+            {
+                "href": "loft.xhtml",
+                "title": "\u56f3\u8868\u4e00\u89a7"
+            }
+        ]
     ],
     "meta": {
         "contributors": "[]",

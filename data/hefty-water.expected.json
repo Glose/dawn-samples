@@ -9,16 +9,30 @@
             "doc",
             "heftywater.xhtml",
             "application/xhtml+xml"
-        ],
-        "nav": [
-            "nav",
-            "nav.xhtml",
-            "application/xhtml+xml"
         ]
     },
     "toc": [
         null,
-        []
+        [
+            {
+                "href": "heftywater.xhtml#title",
+                "title": "Hefty Water",
+                "children": [
+                    {
+                        "href": "heftywater.xhtml#switch",
+                        "title": "The Switch"
+                    },
+                    {
+                        "href": "heftywater.xhtml#source",
+                        "title": "The Source"
+                    },
+                    {
+                        "href": "heftywater.xhtml#ruby",
+                        "title": "Hefty Ruby Water"
+                    }
+                ]
+            }
+        ]
     ],
     "meta": {
         "contributors": "[]",

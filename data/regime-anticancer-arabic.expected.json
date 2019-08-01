@@ -12,11 +12,6 @@
             "Navigation/toc.ncx",
             "application/x-dtbncx+xml"
         ],
-        "nav": [
-            "nav",
-            "Navigation/nav.xhtml",
-            "application/xhtml+xml"
-        ],
         "stylesheet": [
             "stylesheet",
             "Style/style.css",
@@ -50,7 +45,20 @@
     },
     "toc": [
         null,
-        []
+        [
+            {
+                "href": "../Content/A_cover.xhtml",
+                "title": "\n\t\t\t\t  Couverture"
+            },
+            {
+                "href": "../Content/B_titlepage.xhtml",
+                "title": "\n\t\t\t\t  Page de titre"
+            },
+            {
+                "href": "../Content/C_content.xhtml",
+                "title": "Commencer la lecture"
+            }
+        ]
     ],
     "meta": {
         "contributors": "[<AttributedString 'Vincent Gros' {'id': 'contributor', 'role': 'mrk', 'file-as': 'Gros, Vincent'}>]",

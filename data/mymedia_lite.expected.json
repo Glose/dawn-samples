@@ -11,11 +11,6 @@
         "XHTML0006"
     ],
     "manifest": {
-        "TOC": [
-            "TOC",
-            "toc.xhtml",
-            "application/xhtml+xml"
-        ],
         "XHTML0000": [
             "XHTML0000",
             "text/book_0000.xhtml",
@@ -109,7 +104,32 @@
     },
     "toc": [
         null,
-        []
+        [
+            {
+                "href": "text/book_0000.xhtml",
+                "title": "\u30ac\u30ea\u7248\u306e\u8a71",
+                "children": [
+                    {
+                        "href": "text/book_0002.xhtml#toc-001",
+                        "title": "\u8ce2\u6cbb\u306e\u5922\u306e\u4e16\u754c"
+                    },
+                    {
+                        "href": "text/book_0003.xhtml#toc-002",
+                        "title": "\u30d5\u30a1\u30fc\u30b9\u30c8\u30fb\u30cf\u30f3\u30c9\u306e\u6280\u8853"
+                    },
+                    {
+                        "href": "text/book_0004.xhtml#toc-003",
+                        "title": "\u3044\u304f\u3070\u304f\u304b\u306e\u5275\u9020\u529b\u3068\u60f3\u50cf\u529b",
+                        "children": [
+                            {
+                                "href": "text/book_0005.xhtml#toc-004",
+                                "title": "\u8457\u8005\u306b\u3064\u3044\u3066"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
     ],
     "meta": {
         "contributors": "[]",

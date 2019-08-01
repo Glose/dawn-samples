@@ -21,11 +21,6 @@
             "toc.ncx",
             "application/x-dtbncx+xml"
         ],
-        "toc": [
-            "toc",
-            "toc.xhtml",
-            "application/xhtml+xml"
-        ],
         "css": [
             "css",
             "default.css",
@@ -154,7 +149,56 @@
     },
     "toc": [
         null,
-        []
+        [
+            {
+                "href": "cover.xhtml",
+                "title": "\u05d3\u05e3 \u05e4\u05ea\u05d9\u05d7\u05d4"
+            },
+            {
+                "href": "copyright.xhtml",
+                "title": "\u05d6\u05db\u05d5\u05d9\u05d5\u05ea \u05d9\u05d5\u05e6\u05e8\u05d9\u05dd"
+            },
+            {
+                "href": "chapter1.xhtml",
+                "title": "\u05d4\u05e4\u05dc\u05d2\u05ea \u05e7\u05e6\u05e8\u05d4 \u05e2\u05dd \u05e8\u05d5\u05e0\u05d9\u05ea"
+            },
+            {
+                "href": "chapter2.xhtml",
+                "title": "\u05d0\u05dc\u05db\u05e1 \u05de\u05d2\u05d9\u05e2\u05d4 \u05dc\u05d1\u05d9\u05e7\u05d5\u05e8"
+            },
+            {
+                "href": "chapter3.xhtml",
+                "title": "\u05d0\u05d1\u05d9\u05e9\u05d9 \u05de\u05e1\u05e4\u05e8 \u05d0\u05ea \u05e1\u05d9\u05e4\u05d5\u05e8\u05d5"
+            },
+            {
+                "href": "chapter4.xhtml",
+                "title": "\u05d4\u05d6\u05de\u05e0\u05d4 \u05dc\u05d4\u05e4\u05dc\u05d2\u05d4 \u05dc\u05e2\u05db\u05d5"
+            },
+            {
+                "href": "chapter5.xhtml",
+                "title": "\u05d9\u05d5\u05e6\u05d0\u05d9\u05dd \u05dc\u05d4\u05e4\u05dc\u05d9\u05d2 \u05d5\u05de\u05ea\u05d7\u05d9\u05dc \u05d4\u05de\u05ea\u05d7"
+            },
+            {
+                "href": "chapter6.xhtml",
+                "title": "\u05de\u05e6\u05d9\u05dc\u05d9\u05dd \u05d9\u05d0\u05db\u05d8\u05d4 \u05de\u05d8\u05d1\u05d9\u05e2\u05d4?"
+            },
+            {
+                "href": "chapter7.xhtml",
+                "title": "\u05d0\u05e4\u05e9\u05e8 \u05dc\u05d4\u05de\u05e9\u05d9\u05da \u05dc\u05d4\u05e4\u05dc\u05d9\u05d2"
+            },
+            {
+                "href": "chapter8.xhtml",
+                "title": "\u05e2\u05d5\u05d3 \u05de\u05e7\u05e8\u05d4 \u05d7\u05d9\u05e8\u05d5\u05dd?"
+            },
+            {
+                "href": "chapter9.xhtml",
+                "title": "\u05e8\u05d5\u05e4\u05d0 \u05e0\u05e9\u05d0\u05e8 \u05e8\u05d5\u05e4\u05d0"
+            },
+            {
+                "href": "chapter10.xhtml",
+                "title": "\u05d7\u05d5\u05d6\u05e8\u05d9\u05dd \u05dc\u05d4\u05e8\u05e6\u05dc\u05d9\u05d4"
+            }
+        ]
     ],
     "meta": {
         "contributors": "[]",

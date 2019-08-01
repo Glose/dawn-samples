@@ -182,11 +182,6 @@
             "xhtml/WCAG-ch1-2.xhtml",
             "application/xhtml+xml"
         ],
-        "item_36": [
-            "item_36",
-            "xhtml/toc.xhtml",
-            "application/xhtml+xml"
-        ],
         "item_37": [
             "item_37",
             "css/images/iconmonstr-info-8-icon-20x20.png",
@@ -215,7 +210,194 @@
     },
     "toc": [
         null,
-        []
+        [
+            {
+                "href": "WCAG-ch1-1.xhtml#d18656e11",
+                "title": "World Cultures and Geography"
+            },
+            {
+                "href": "WCAG-ch1-1.xhtml#d18656e22",
+                "title": "Senior Consultants"
+            },
+            {
+                "href": "WCAG-ch1-2.xhtml#d18656e63",
+                "title": "UNIT 1 - INTRODUCTION TO WORLD CULTURES AND\n                        GEOGRAPHY",
+                "children": [
+                    {
+                        "href": "WCAG-ch1-2.xhtml#d18656e91",
+                        "title": "CHAPTER 1 - Welcome to the World",
+                        "children": [
+                            {
+                                "href": "WCAG-ch1-2.xhtml#d18656e117",
+                                "title": "FOCUS ON GEOGRAPHY"
+                            },
+                            {
+                                "href": "WCAG-ch1-2.xhtml#d18656e136",
+                                "title": "READING SOCIAL STUDIES",
+                                "children": [
+                                    {
+                                        "href": "WCAG-ch1-2.xhtml#d18656e141",
+                                        "title": "BEFORE YOU READ"
+                                    },
+                                    {
+                                        "href": "WCAG-ch1-2.xhtml#d18656e169",
+                                        "title": "READ AND TAKE NOTES"
+                                    }
+                                ]
+                            },
+                            {
+                                "href": "WCAG-ch1-2.xhtml#d18656e211",
+                                "title": "SECTION 1 - The World at Your\n                                        Fingertips",
+                                "children": [
+                                    {
+                                        "href": "WCAG-ch1-2.xhtml#d18656e273",
+                                        "title": "The Peoples of the\n                                            World"
+                                    },
+                                    {
+                                        "href": "WCAG-ch1-2.xhtml#d18656e278",
+                                        "title": "Learning About the\n                                            World"
+                                    },
+                                    {
+                                        "href": "WCAG-ch1-2.xhtml#d18656e291",
+                                        "title": "History and Geography",
+                                        "children": [
+                                            {
+                                                "href": "WCAG-ch1-2.xhtml#d18656e336",
+                                                "title": "The Five Themes of\n                                                       Geography"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "href": "WCAG-ch1-2.xhtml#d18656e382",
+                                        "title": "Government",
+                                        "children": [
+                                            {
+                                                "href": "WCAG-ch1-2.xhtml#d18656e398",
+                                                "title": "Limited and\n                                                       Unlimited Governments"
+                                            },
+                                            {
+                                                "href": "WCAG-ch1-2.xhtml#d18656e421",
+                                                "title": "Citizenship"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "href": "WCAG-ch1-2.xhtml#d18656e452",
+                                        "title": "Economics",
+                                        "children": [
+                                            {
+                                                "href": "WCAG-ch1-2.xhtml#d18656e465",
+                                                "title": "Resources"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "href": "WCAG-ch1-2.xhtml#d18656e484",
+                                        "title": "Kinds of Economics",
+                                        "children": [
+                                            {
+                                                "href": "WCAG-ch1-2.xhtml#d18656e499",
+                                                "title": "Levels of\n                                                       Development"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "href": "WCAG-ch1-2.xhtml#d18656e547",
+                                        "title": "Culture"
+                                    },
+                                    {
+                                        "href": "WCAG-ch1-2.xhtml#d18656e570",
+                                        "title": "SECTION 1\n                                            ASSESSMENT"
+                                    },
+                                    {
+                                        "href": "WCAG-ch1-2.xhtml#d18656e656",
+                                        "title": "Interdisciplinary Challenge:\n                                                Investigate Your World",
+                                        "children": [
+                                            {
+                                                "href": "WCAG-ch1-2.xhtml#d18656e667",
+                                                "title": "HISTORY/ECONOMICS\n                                                       CHALLENGE"
+                                            },
+                                            {
+                                                "href": "WCAG-ch1-2.xhtml#d18656e695",
+                                                "title": "LANGUAGE ARTS\n                                                       CHALLENGE"
+                                            },
+                                            {
+                                                "href": "WCAG-ch1-2.xhtml#d18656e713",
+                                                "title": "DATA FILE"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "href": "WCAG-ch1-2.xhtml#d18656e778",
+                                "title": "SECTION 2 - Many Regions, Many\n                                        Cultures",
+                                "children": [
+                                    {
+                                        "href": "WCAG-ch1-2.xhtml#d18656e819",
+                                        "title": "Different Places, Different\n                                                Cultures",
+                                        "children": [
+                                            {
+                                                "href": "WCAG-ch1-2.xhtml#d18656e852",
+                                                "title": "The World's Culture\n                                                       Regions"
+                                            },
+                                            {
+                                                "href": "WCAG-ch1-2.xhtml#d18656e887",
+                                                "title": "Culture Regions\n                                                       Change"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "href": "WCAG-ch1-2.xhtml#d18656e907",
+                                        "title": "SECTION 2\n                                            ASSESSMENT"
+                                    }
+                                ]
+                            },
+                            {
+                                "href": "WCAG-ch1-2.xhtml#d18656e972",
+                                "title": "SKILLBUILDER: Reading a Time Zone\n                                        Map",
+                                "children": [
+                                    {
+                                        "href": "WCAG-ch1-2.xhtml#d18656e977",
+                                        "title": "Defining the Skill"
+                                    },
+                                    {
+                                        "href": "WCAG-ch1-2.xhtml#d18656e982",
+                                        "title": "Applying the Skill"
+                                    },
+                                    {
+                                        "href": "WCAG-ch1-2.xhtml#d18656e1014",
+                                        "title": "Practicing the\n                                            Skill"
+                                    }
+                                ]
+                            },
+                            {
+                                "href": "WCAG-ch1-2.xhtml#d18656e1019",
+                                "title": "LITERATURE\n                                    CONNECTIONS"
+                            },
+                            {
+                                "href": "WCAG-ch1-2.xhtml#d18656e1086",
+                                "title": "CHAPTER 1 - ASSESSMENT",
+                                "children": [
+                                    {
+                                        "href": "WCAG-ch1-2.xhtml#d18656e1162",
+                                        "title": "Visual Summary"
+                                    },
+                                    {
+                                        "href": "WCAG-ch1-2.xhtml#d18656e1175",
+                                        "title": "SOCIAL STUDIES\n                                                SKILLBUILDER"
+                                    },
+                                    {
+                                        "href": "WCAG-ch1-2.xhtml#d18656e1191",
+                                        "title": "FOCUS ON\n                                            GEOGRAPHY"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
     ],
     "meta": {
         "contributors": "[]",

@@ -97,11 +97,6 @@
             "xhtml/AboutThisDocument.xhtml",
             "application/xhtml+xml"
         ],
-        "toc": [
-            "toc",
-            "xhtml/toc.xhtml",
-            "application/xhtml+xml"
-        ],
         "regions": [
             "regions",
             "xhtml/navigation-regions.xhtml",
@@ -175,7 +170,16 @@
     },
     "toc": [
         null,
-        []
+        [
+            {
+                "href": "p01.xhtml",
+                "title": "\u30cf\u30eb\u30b3\u3055\u3093\u306e\u5f7c\u6c0f/Haruko San No Kareshi"
+            },
+            {
+                "href": "AboutThisDocument.xhtml",
+                "title": "\u3053\u306e\u6587\u66f8\u306b\u3064\u3044\u3066/About this document"
+            }
+        ]
     ],
     "meta": {
         "contributors": "[]",

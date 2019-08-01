@@ -92,11 +92,6 @@
             "xhtml/fallback.xhtml",
             "application/xhtml+xml"
         ],
-        "toc": [
-            "toc",
-            "xhtml/toc.xhtml",
-            "application/xhtml+xml"
-        ],
         "ncxtoc": [
             "ncxtoc",
             "xhtml/toc.ncx",
@@ -105,7 +100,16 @@
     },
     "toc": [
         null,
-        []
+        [
+            {
+                "href": "../images/01.jpg",
+                "title": "\u30cf\u30eb\u30b3\u3055\u3093\u306e\u5f7c\u6c0f/Haruko San No Kareshi"
+            },
+            {
+                "href": "../images/AboutThisDocument.png",
+                "title": "\u3053\u306e\u6587\u66f8\u306b\u3064\u3044\u3066/About this document"
+            }
+        ]
     ],
     "meta": {
         "contributors": "[]",

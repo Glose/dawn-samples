@@ -10,11 +10,6 @@
             "wasteland-content.xhtml",
             "application/xhtml+xml"
         ],
-        "nav": [
-            "nav",
-            "wasteland-nav.xhtml",
-            "application/xhtml+xml"
-        ],
         "cover": [
             "cover",
             "wasteland-cover.jpg",
@@ -58,7 +53,32 @@
     },
     "toc": [
         null,
-        []
+        [
+            {
+                "href": "wasteland-content.xhtml#ch1",
+                "title": "I. THE BURIAL OF THE DEAD"
+            },
+            {
+                "href": "wasteland-content.xhtml#ch2",
+                "title": "II. A GAME OF CHESS"
+            },
+            {
+                "href": "wasteland-content.xhtml#ch3",
+                "title": "III. THE FIRE SERMON"
+            },
+            {
+                "href": "wasteland-content.xhtml#ch4",
+                "title": "IV. DEATH BY WATER"
+            },
+            {
+                "href": "wasteland-content.xhtml#ch5",
+                "title": "V. WHAT THE THUNDER SAID"
+            },
+            {
+                "href": "wasteland-content.xhtml#rearnotes",
+                "title": "NOTES ON \"THE WASTE LAND\""
+            }
+        ]
     ],
     "meta": {
         "contributors": "[]",

@@ -79,11 +79,6 @@
             "images/portrait.jpg",
             "image/jpeg"
         ],
-        "nav": [
-            "nav",
-            "xhtml/nav.xhtml",
-            "application/xhtml+xml"
-        ],
         "css": [
             "css",
             "css/cole.css",
@@ -102,7 +97,34 @@
     },
     "toc": [
         null,
-        []
+        [
+            {
+                "href": "0-intro.xhtml",
+                "title": "The Voyage of Life",
+                "children": [
+                    {
+                        "href": "0-intro.xhtml#background",
+                        "title": "Background"
+                    }
+                ]
+            },
+            {
+                "href": "1-childhood.xhtml#b1",
+                "title": "Childhood"
+            },
+            {
+                "href": "2-youth.xhtml#b2",
+                "title": "Youth"
+            },
+            {
+                "href": "3-manhood.xhtml#b3",
+                "title": "Manhood"
+            },
+            {
+                "href": "4-oldage.xhtml#b4",
+                "title": "Old Age"
+            }
+        ]
     ],
     "meta": {
         "contributors": "[]",

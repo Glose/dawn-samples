@@ -22,11 +22,6 @@
             "xhtml/\u8868\u7d19.xhtml",
             "application/xhtml+xml"
         ],
-        "\u76ee\u6b21": [
-            "\u76ee\u6b21",
-            "xhtml/\u76ee\u6b21.xhtml",
-            "application/xhtml+xml"
-        ],
         "\u4e00": [
             "\u4e00",
             "xhtml/\u4e00.xhtml",
@@ -65,7 +60,12 @@
     },
     "toc": [
         null,
-        []
+        [
+            {
+                "href": "\u4e00.xhtml",
+                "title": "\u4e00"
+            }
+        ]
     ],
     "meta": {
         "contributors": "[]",

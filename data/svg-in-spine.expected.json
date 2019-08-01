@@ -55,11 +55,6 @@
             "Images/flyer.jpg",
             "image/jpeg"
         ],
-        "nav.xhtml": [
-            "nav.xhtml",
-            "nav.xhtml",
-            "application/xhtml+xml"
-        ],
         "nav001": [
             "nav001",
             "tocimages/bg.png",
@@ -83,7 +78,20 @@
     },
     "toc": [
         null,
-        []
+        [
+            {
+                "href": "Images/cover.svg",
+                "title": "Cover"
+            },
+            {
+                "href": "Images/p002.svg",
+                "title": "Creative Commons Licenses"
+            },
+            {
+                "href": "Images/Tsuru_wiki-1b.svg",
+                "title": "Origami : Crane"
+            }
+        ]
     ],
     "meta": {
         "contributors": "[<AttributedString 'Takeshi Kanai' {}>]",

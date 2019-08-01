@@ -10,11 +10,6 @@
             "images/cover.jpg",
             "image/jpeg"
         ],
-        "nav": [
-            "nav",
-            "content/nav.xhtml",
-            "application/xhtml+xml"
-        ],
         "epub-css": [
             "epub-css",
             "css/epub.css",
@@ -143,7 +138,12 @@
     },
     "toc": [
         null,
-        []
+        [
+            {
+                "href": "text.xhtml",
+                "title": "Phases of the Moon"
+            }
+        ]
     ],
     "meta": {
         "contributors": "[]",

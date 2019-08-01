@@ -42,11 +42,6 @@
             "css/stylesheet.css",
             "text/css"
         ],
-        "ncx": [
-            "ncx",
-            "ncx.xhtml",
-            "application/xhtml+xml"
-        ],
         "ncx1": [
             "ncx1",
             "toc.ncx",
@@ -279,8 +274,81 @@
         ]
     },
     "toc": [
-        null,
-        []
+        "Contents",
+        [
+            {
+                "href": "copyright.xhtml",
+                "title": "Copyright"
+            },
+            {
+                "href": "foreword001.xhtml",
+                "title": "Foreword, by Dan Kirklin"
+            },
+            {
+                "href": "introduction001.xhtml",
+                "title": "Introduction"
+            },
+            {
+                "href": "chapter001.xhtml",
+                "title": "Chapter 1: What Is an Index?"
+            },
+            {
+                "href": "chapter002.xhtml",
+                "title": "Chapter 2: Numbers and Types of Indexes"
+            },
+            {
+                "href": "chapter003.xhtml",
+                "title": "Chapter 3: Characteristics of a Good Index"
+            },
+            {
+                "href": "chapter004.xhtml",
+                "title": "Chapter 4: Index Style and Format"
+            },
+            {
+                "href": "chapter005.xhtml",
+                "title": "Chapter 5: Index Length and Index Space"
+            },
+            {
+                "href": "chapter006.xhtml",
+                "title": "Chapter 6: Author/Editor/Indexer Relationships"
+            },
+            {
+                "href": "chapter007.xhtml",
+                "title": "Chapter 7: Hiring an Indexer"
+            },
+            {
+                "href": "chapter008.xhtml",
+                "title": "Chapter 8: What the Editor Needs to Tell the Indexer"
+            },
+            {
+                "href": "chapter009.xhtml",
+                "title": "Chapter 9: Editing an Index Without Tears"
+            },
+            {
+                "href": "chapter010.xhtml",
+                "title": "Chapter 10: Electronic Files"
+            },
+            {
+                "href": "appendix001.xhtml",
+                "title": "Appendix A: American Society of Indexers Recommended Indexing Agreement"
+            },
+            {
+                "href": "appendix002.xhtml",
+                "title": "Appendix B: Additional Resources"
+            },
+            {
+                "href": "appendix003.xhtml",
+                "title": "Appendix C: Glossary of Indexing Terms"
+            },
+            {
+                "href": "author_bio001.xhtml",
+                "title": "About the Authors"
+            },
+            {
+                "href": "index1.xhtml",
+                "title": "Index"
+            }
+        ]
     ],
     "meta": {
         "contributors": "[]",

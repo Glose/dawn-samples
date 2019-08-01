@@ -133,11 +133,6 @@
             "xhtml/fcla-xml-2.30li4.xhtml",
             "application/xhtml+xml"
         ],
-        "c6": [
-            "c6",
-            "xhtml/nav.xhtml",
-            "application/xhtml+xml"
-        ],
         "c7": [
             "c7",
             "xhtml/fcla-xml-2.30li5.xhtml",
@@ -581,7 +576,412 @@
     },
     "toc": [
         null,
-        []
+        [
+            {
+                "href": "titlepage.xhtml",
+                "title": "A First Course in Linear Algebra"
+            },
+            {
+                "href": "copyright.xhtml",
+                "title": "Copyright"
+            },
+            {
+                "href": "fcla-xml-2.30li2.xhtml",
+                "title": "Author Biography"
+            },
+            {
+                "href": "fcla-xml-2.30li3.xhtml",
+                "title": "Edition"
+            },
+            {
+                "href": "fcla-xml-2.30li4.xhtml",
+                "title": "Publisher"
+            },
+            {
+                "href": "nav.xhtml",
+                "title": "Table of Contents"
+            },
+            {
+                "href": "fcla-xml-2.30li5.xhtml",
+                "title": "Dedication"
+            },
+            {
+                "href": "fcla-xml-2.30li8.xhtml",
+                "title": "Chapter 1. Theorems"
+            },
+            {
+                "href": "fcla-xml-2.30li9.xhtml",
+                "title": "Chapter 2. Notation"
+            },
+            {
+                "href": "fcla-xml-2.30li10.xhtml",
+                "title": "Chapter 3. Diagrams"
+            },
+            {
+                "href": "fcla-xml-2.30li11.xhtml",
+                "title": "Chapter 4. Examples"
+            },
+            {
+                "href": "fcla-xml-2.30li12.xhtml",
+                "title": "Preface"
+            },
+            {
+                "href": "fcla-xml-2.30li13.xhtml",
+                "title": "Acknowledgements"
+            },
+            {
+                "href": "fcla-xml-2.30li14.xhtml",
+                "title": "Part I. Part C\u00a0\u00a0Core",
+                "children": [
+                    {
+                        "href": "fcla-xml-2.30li15.xhtml",
+                        "title": "Chapter 1. Chapter SLE\u00a0\u00a0Systems of Linear Equations",
+                        "children": [
+                            {
+                                "href": "fcla-xml-2.30li16.xhtml",
+                                "title": "Section WILA\u00a0\u00a0What is Linear Algebra?"
+                            },
+                            {
+                                "href": "fcla-xml-2.30li17.xhtml",
+                                "title": "Section SSLE\u00a0\u00a0Solving Systems of Linear Equations"
+                            },
+                            {
+                                "href": "fcla-xml-2.30li18.xhtml",
+                                "title": "Section RREF\u00a0\u00a0Reduced Row-Echelon Form"
+                            },
+                            {
+                                "href": "fcla-xml-2.30li20.xhtml",
+                                "title": "Section HSE\u00a0\u00a0Homogeneous Systems of Equations"
+                            },
+                            {
+                                "href": "fcla-xml-2.30li21.xhtml",
+                                "title": "Section NM\u00a0\u00a0Nonsingular Matrices"
+                            }
+                        ]
+                    },
+                    {
+                        "href": "fcla-xml-2.30li22.xhtml",
+                        "title": "Chapter 2. Chapter V\u00a0\u00a0Vectors",
+                        "children": [
+                            {
+                                "href": "fcla-xml-2.30li25.xhtml",
+                                "title": "Section SS\u00a0\u00a0Spanning Sets"
+                            },
+                            {
+                                "href": "fcla-xml-2.30li28.xhtml",
+                                "title": "Section O\u00a0\u00a0Orthogonality"
+                            }
+                        ]
+                    },
+                    {
+                        "href": "fcla-xml-2.30li29.xhtml",
+                        "title": "Chapter 3. Chapter M\u00a0\u00a0Matrices",
+                        "children": [
+                            {
+                                "href": "fcla-xml-2.30li31.xhtml",
+                                "title": "Section MM\u00a0\u00a0Matrix Multiplication"
+                            },
+                            {
+                                "href": "fcla-xml-2.30li32.xhtml",
+                                "title": "Section MISLE\u00a0\u00a0Matrix Inverses and Systems of Linear Equations"
+                            },
+                            {
+                                "href": "fcla-xml-2.30li33.xhtml",
+                                "title": "Section MINM\u00a0\u00a0Matrix Inverses and Nonsingular Matrices"
+                            },
+                            {
+                                "href": "fcla-xml-2.30li34.xhtml",
+                                "title": "Section CRS\u00a0\u00a0Column and Row Spaces"
+                            }
+                        ]
+                    },
+                    {
+                        "href": "fcla-xml-2.30li36.xhtml",
+                        "title": "Chapter 4. Chapter VS\u00a0\u00a0Vector Spaces"
+                    },
+                    {
+                        "href": "fcla-xml-2.30li43.xhtml",
+                        "title": "Chapter 5. Chapter D\u00a0\u00a0Determinants",
+                        "children": [
+                            {
+                                "href": "fcla-xml-2.30li45.xhtml",
+                                "title": "Section PDM\u00a0\u00a0Properties of Determinants of Matrices"
+                            }
+                        ]
+                    },
+                    {
+                        "href": "fcla-xml-2.30li46.xhtml",
+                        "title": "Chapter 6. Chapter E\u00a0\u00a0Eigenvalues",
+                        "children": [
+                            {
+                                "href": "fcla-xml-2.30li48.xhtml",
+                                "title": "Section PEE\u00a0\u00a0Properties of Eigenvalues and Eigenvectors"
+                            }
+                        ]
+                    },
+                    {
+                        "href": "fcla-xml-2.30li50.xhtml",
+                        "title": "Chapter 7. Chapter LT\u00a0\u00a0Linear Transformations",
+                        "children": [
+                            {
+                                "href": "fcla-xml-2.30li52.xhtml",
+                                "title": "Section ILT\u00a0\u00a0Injective Linear Transformations"
+                            },
+                            {
+                                "href": "fcla-xml-2.30li53.xhtml",
+                                "title": "Section SLT\u00a0\u00a0Surjective Linear Transformations"
+                            },
+                            {
+                                "href": "fcla-xml-2.30li54.xhtml",
+                                "title": "Section IVLT\u00a0\u00a0Invertible Linear Transformations"
+                            }
+                        ]
+                    },
+                    {
+                        "href": "fcla-xml-2.30li55.xhtml",
+                        "title": "Chapter 8. Chapter R\u00a0\u00a0Representations",
+                        "children": [
+                            {
+                                "href": "fcla-xml-2.30li58.xhtml",
+                                "title": "Section CB\u00a0\u00a0Change of Basis"
+                            },
+                            {
+                                "href": "fcla-xml-2.30li59.xhtml",
+                                "title": "Section OD\u00a0\u00a0Orthonormal Diagonalization"
+                            },
+                            {
+                                "href": "fcla-xml-2.30li60.xhtml",
+                                "title": "Section NLT\u00a0\u00a0Nilpotent Linear Transformations"
+                            },
+                            {
+                                "href": "fcla-xml-2.30li61.xhtml",
+                                "title": "Section IS\u00a0\u00a0Invariant Subspaces"
+                            },
+                            {
+                                "href": "fcla-xml-2.30li62.xhtml",
+                                "title": "Section JCF\u00a0\u00a0Jordan Canonical Form"
+                            }
+                        ]
+                    },
+                    {
+                        "href": "fcla-xml-2.30li63.xhtml",
+                        "title": "Chapter 9. Appendix CN\u00a0\u00a0Computation Notes",
+                        "children": [
+                            {
+                                "href": "fcla-xml-2.30li64.xhtml",
+                                "title": "Section MMA\u00a0\u00a0Mathematica"
+                            },
+                            {
+                                "href": "fcla-xml-2.30li65.xhtml",
+                                "title": "Section TI86\u00a0\u00a0Texas Instruments 86"
+                            },
+                            {
+                                "href": "fcla-xml-2.30li66.xhtml",
+                                "title": "Section TI83\u00a0\u00a0Texas Instruments 83"
+                            },
+                            {
+                                "href": "fcla-xml-2.30li67.xhtml",
+                                "title": "Section SAGE\u00a0\u00a0SAGE: Open Source Mathematics Software"
+                            }
+                        ]
+                    },
+                    {
+                        "href": "fcla-xml-2.30li68.xhtml",
+                        "title": "Chapter 10. Appendix P\u00a0\u00a0Preliminaries",
+                        "children": [
+                            {
+                                "href": "fcla-xml-2.30li69.xhtml",
+                                "title": "Section CNO\u00a0\u00a0Complex Number Operations"
+                            },
+                            {
+                                "href": "fcla-xml-2.30li70.xhtml",
+                                "title": "Section SET\u00a0\u00a0Sets"
+                            },
+                            {
+                                "href": "fcla-xml-2.30li71.xhtml",
+                                "title": "Section PT\u00a0\u00a0Proof Techniques"
+                            }
+                        ]
+                    },
+                    {
+                        "href": "fcla-xml-2.30li72.xhtml",
+                        "title": "Chapter 11. Appendix A\u00a0\u00a0Archetypes",
+                        "children": [
+                            {
+                                "href": "fcla-xml-2.30li73.xhtml",
+                                "title": "Archetype A"
+                            },
+                            {
+                                "href": "fcla-xml-2.30li74.xhtml",
+                                "title": "Archetype B"
+                            },
+                            {
+                                "href": "fcla-xml-2.30li75.xhtml",
+                                "title": "Archetype C"
+                            },
+                            {
+                                "href": "fcla-xml-2.30li76.xhtml",
+                                "title": "Archetype D"
+                            },
+                            {
+                                "href": "fcla-xml-2.30li77.xhtml",
+                                "title": "Archetype E"
+                            },
+                            {
+                                "href": "fcla-xml-2.30li78.xhtml",
+                                "title": "Archetype F"
+                            },
+                            {
+                                "href": "fcla-xml-2.30li79.xhtml",
+                                "title": "Archetype G"
+                            },
+                            {
+                                "href": "fcla-xml-2.30li80.xhtml",
+                                "title": "Archetype H"
+                            },
+                            {
+                                "href": "fcla-xml-2.30li81.xhtml",
+                                "title": "Archetype I"
+                            },
+                            {
+                                "href": "fcla-xml-2.30li82.xhtml",
+                                "title": "Archetype J"
+                            },
+                            {
+                                "href": "fcla-xml-2.30li83.xhtml",
+                                "title": "Archetype K"
+                            },
+                            {
+                                "href": "fcla-xml-2.30li84.xhtml",
+                                "title": "Archetype L"
+                            },
+                            {
+                                "href": "fcla-xml-2.30li85.xhtml",
+                                "title": "Archetype M"
+                            },
+                            {
+                                "href": "fcla-xml-2.30li86.xhtml",
+                                "title": "Archetype N"
+                            },
+                            {
+                                "href": "fcla-xml-2.30li87.xhtml",
+                                "title": "Archetype O"
+                            },
+                            {
+                                "href": "fcla-xml-2.30li88.xhtml",
+                                "title": "Archetype P"
+                            },
+                            {
+                                "href": "fcla-xml-2.30li89.xhtml",
+                                "title": "Archetype Q"
+                            },
+                            {
+                                "href": "fcla-xml-2.30li90.xhtml",
+                                "title": "Archetype R"
+                            },
+                            {
+                                "href": "fcla-xml-2.30li91.xhtml",
+                                "title": "Archetype S"
+                            },
+                            {
+                                "href": "fcla-xml-2.30li92.xhtml",
+                                "title": "Archetype T"
+                            },
+                            {
+                                "href": "fcla-xml-2.30li93.xhtml",
+                                "title": "Archetype U"
+                            },
+                            {
+                                "href": "fcla-xml-2.30li94.xhtml",
+                                "title": "Archetype V"
+                            },
+                            {
+                                "href": "fcla-xml-2.30li95.xhtml",
+                                "title": "Archetype W"
+                            },
+                            {
+                                "href": "fcla-xml-2.30li96.xhtml",
+                                "title": "Archetype X"
+                            }
+                        ]
+                    },
+                    {
+                        "href": "fcla-xml-2.30li97.xhtml",
+                        "title": "Chapter 12. Appendix GFDL\u00a0\u00a0GNU Free Documentation License"
+                    }
+                ]
+            },
+            {
+                "href": "fcla-xml-2.30li98.xhtml",
+                "title": "Part II. Part T\u00a0\u00a0Topics",
+                "children": [
+                    {
+                        "href": "fcla-xml-2.30li100.xhtml",
+                        "title": "Chapter 14. Section T\u00a0\u00a0Trace"
+                    },
+                    {
+                        "href": "fcla-xml-2.30li101.xhtml",
+                        "title": "Chapter 15. Section HP\u00a0\u00a0Hadamard Product"
+                    },
+                    {
+                        "href": "fcla-xml-2.30li102.xhtml",
+                        "title": "Chapter 16. Section VM\u00a0\u00a0Vandermonde Matrix"
+                    },
+                    {
+                        "href": "fcla-xml-2.30li103.xhtml",
+                        "title": "Chapter 17. Section PSM\u00a0\u00a0Positive Semi-definite Matrices"
+                    },
+                    {
+                        "href": "fcla-xml-2.30li104.xhtml",
+                        "title": "Chapter 18. Chapter MD\u00a0\u00a0Matrix Decompositions",
+                        "children": [
+                            {
+                                "href": "fcla-xml-2.30li105.xhtml",
+                                "title": "Section ROD\u00a0\u00a0Rank One Decomposition"
+                            },
+                            {
+                                "href": "fcla-xml-2.30li106.xhtml",
+                                "title": "Section TD\u00a0\u00a0Triangular Decomposition"
+                            },
+                            {
+                                "href": "fcla-xml-2.30li107.xhtml",
+                                "title": "Section SVD\u00a0\u00a0Singular Value Decomposition"
+                            },
+                            {
+                                "href": "fcla-xml-2.30li108.xhtml",
+                                "title": "Section SR\u00a0\u00a0Square Roots"
+                            },
+                            {
+                                "href": "fcla-xml-2.30li109.xhtml",
+                                "title": "Section POD\u00a0\u00a0Polar Decomposition"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "href": "fcla-xml-2.30li110.xhtml",
+                "title": "Part III. Part A\u00a0\u00a0Applications",
+                "children": [
+                    {
+                        "href": "fcla-xml-2.30li111.xhtml",
+                        "title": "Chapter 19. Section CF\u00a0\u00a0Curve Fitting"
+                    },
+                    {
+                        "href": "fcla-xml-2.30li112.xhtml",
+                        "title": "Chapter 20. Section SAS\u00a0\u00a0Sharing A Secret"
+                    },
+                    {
+                        "href": "fcla-xml-2.30li6.xhtml",
+                        "title": "Chapter 21. Contributors"
+                    },
+                    {
+                        "href": "fcla-xml-2.30li7.xhtml",
+                        "title": "Chapter 22. Definitions"
+                    }
+                ]
+            }
+        ]
     ],
     "meta": {
         "contributors": "[]",

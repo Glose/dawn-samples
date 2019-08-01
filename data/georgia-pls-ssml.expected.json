@@ -11,11 +11,6 @@
             "cover.xhtml",
             "application/xhtml+xml"
         ],
-        "nav": [
-            "nav",
-            "nav.xhtml",
-            "application/xhtml+xml"
-        ],
         "doc1": [
             "doc1",
             "georgia.xhtml",
@@ -49,7 +44,50 @@
     },
     "toc": [
         null,
-        []
+        [
+            {
+                "href": "georgia.xhtml#d10e42",
+                "title": "GEORGIA",
+                "children": [
+                    {
+                        "href": "georgia.xhtml#d10e85",
+                        "title": "Climate and Soils"
+                    },
+                    {
+                        "href": "georgia.xhtml#d10e102",
+                        "title": "Minerals"
+                    },
+                    {
+                        "href": "georgia.xhtml#d10e118",
+                        "title": "Agriculture"
+                    },
+                    {
+                        "href": "georgia.xhtml#d10e150",
+                        "title": "Manufactures"
+                    },
+                    {
+                        "href": "georgia.xhtml#d10e187",
+                        "title": "Population"
+                    },
+                    {
+                        "href": "georgia.xhtml#d10e209",
+                        "title": "Government"
+                    },
+                    {
+                        "href": "georgia.xhtml#d10e271",
+                        "title": "Education"
+                    },
+                    {
+                        "href": "georgia.xhtml#d10e288",
+                        "title": "Finance"
+                    },
+                    {
+                        "href": "georgia.xhtml#d10e304",
+                        "title": "History"
+                    }
+                ]
+            }
+        ]
     ],
     "meta": {
         "contributors": "[]",

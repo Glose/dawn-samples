@@ -34,16 +34,16 @@
             "ncx",
             "toc.ncx",
             "application/x-dtbncx+xml"
-        ],
-        "toc": [
-            "toc",
-            "toc.xhtml",
-            "application/xhtml+xml"
         ]
     },
     "toc": [
         null,
-        []
+        [
+            {
+                "href": "childrens-book-page.xhtml",
+                "title": "Page"
+            }
+        ]
     ],
     "meta": {
         "contributors": "[<AttributedString 'Liza Daly' {'id': 'contrib1', 'role': 'mrk'}>, <AttributedString 'University of California Libraries' {}>]",

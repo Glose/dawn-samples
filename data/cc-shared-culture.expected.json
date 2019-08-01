@@ -82,11 +82,6 @@
             "xhtml/cover.xhtml",
             "application/xhtml+xml"
         ],
-        "toc": [
-            "toc",
-            "xhtml/toc.xhtml",
-            "application/xhtml+xml"
-        ],
         "p10": [
             "p10",
             "xhtml/p10.xhtml",
@@ -119,8 +114,33 @@
         ]
     },
     "toc": [
-        null,
-        []
+        "table of contents",
+        [
+            {
+                "href": "p10.xhtml",
+                "title": "\n                     "
+            },
+            {
+                "href": "p20.xhtml",
+                "title": "\n                     "
+            },
+            {
+                "href": "p30.xhtml",
+                "title": "\n                     "
+            },
+            {
+                "href": "p40.xhtml",
+                "title": "\n                     "
+            },
+            {
+                "href": "p50.xhtml",
+                "title": "\n                     "
+            },
+            {
+                "href": "p60.xhtml",
+                "title": "\n                     "
+            }
+        ]
     ],
     "meta": {
         "contributors": "[<AttributedString 'mgylling' {}>]",

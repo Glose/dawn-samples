@@ -163,11 +163,6 @@
         "acknowledgments"
     ],
     "manifest": {
-        "__nav": [
-            "__nav",
-            "xhtml/nav.xhtml",
-            "application/xhtml+xml"
-        ],
         "d4e19": [
             "d4e19",
             "xhtml/d4e19.xhtml",
@@ -2656,7 +2651,610 @@
     },
     "toc": [
         null,
-        []
+        [
+            {
+                "href": "introduction.xhtml#introduction",
+                "title": "\u7b2c1\u7ae0 \u5e8f\u8ad6",
+                "children": [
+                    {
+                        "href": "introduction.xhtml#purpose_of_this_document",
+                        "title": "1.1 \u3053\u306e\u6587\u66f8\u306e\u76ee\u7684"
+                    },
+                    {
+                        "href": "how_this_document_was_created.xhtml#how_this_document_was_created",
+                        "title": "1.2 \u3053\u306e\u6587\u66f8\u306e\u4f5c\u6210\u65b9\u6cd5"
+                    },
+                    {
+                        "href": "basic_principles_for_development_of_this_document.xhtml#basic_principles_for_development_of_this_document",
+                        "title": "1.3 \u3053\u306e\u6587\u66f8\u306e\u57f7\u7b46\u65b9\u91dd"
+                    },
+                    {
+                        "href": "the_structure_of_this_document.xhtml#the_structure_of_this_document",
+                        "title": "1.4 \u3053\u306e\u6587\u66f8\u306e\u69cb\u6210"
+                    },
+                    {
+                        "href": "reference_of_definition_and_others.xhtml#reference_of_definition_and_others",
+                        "title": "1.5 \u7528\u8a9e\u306e\u53c2\u7167\u305d\u306e\u4ed6"
+                    }
+                ]
+            },
+            {
+                "href": "basics_of_japanese_composition.xhtml#basics_of_japanese_composition",
+                "title": "\u7b2c2\u7ae0 \u65e5\u672c\u8a9e\u7d44\u7248\u306e\u57fa\u672c",
+                "children": [
+                    {
+                        "href": "basics_of_japanese_composition.xhtml#characters_and_the_principles_of_setting_them_for_japanese_composition",
+                        "title": "2.1 \u65e5\u672c\u8a9e\u7d44\u7248\u306b\u4f7f\u7528\u3059\u308b\u6587\u5b57\u3068\u914d\u7f6e\u306e\u539f\u5247",
+                        "children": [
+                            {
+                                "href": "basics_of_japanese_composition.xhtml#characters_used_for_japanese_composition",
+                                "title": "2.1.1 \u65e5\u672c\u8a9e\u7d44\u7248\u306b\u4f7f\u7528\u3059\u308b\u6587\u5b57"
+                            },
+                            {
+                                "href": "kanji_hiragana_and_katakana.xhtml#kanji_hiragana_and_katakana",
+                                "title": "2.1.2 \u6f22\u5b57\u7b49\uff0c\u5e73\u4eee\u540d\uff0c\u7247\u4eee\u540d"
+                            },
+                            {
+                                "href": "principles_of_arrangement_of_kanji_and_kana_characters.xhtml#principles_of_arrangement_of_kanji_and_kana_characters",
+                                "title": "2.1.3 \u6f22\u5b57\u53ca\u3073\u4eee\u540d\u306e\u914d\u7f6e\u306e\u539f\u5247"
+                            }
+                        ]
+                    },
+                    {
+                        "href": "page_formats_for_japanese_documents.xhtml#page_formats_for_japanese_documents",
+                        "title": "2.2 \u65e5\u672c\u8a9e\u6587\u66f8\u306e\u57fa\u672c\u3068\u306a\u308b\u7d44\u4f53\u88c1",
+                        "children": [
+                            {
+                                "href": "page_formats_for_japanese_documents.xhtml#specification_of_page_formats",
+                                "title": "2.2.1 \u7d44\u4f53\u88c1\u306e\u8a2d\u8a08"
+                            },
+                            {
+                                "href": "basic_templates_of_page_formats.xhtml#basic_templates_of_page_formats",
+                                "title": "2.2.2 \u57fa\u672c\u3068\u306a\u308b\u7d44\u4f53\u88c1"
+                            },
+                            {
+                                "href": "elements_of_page_formats.xhtml#elements_of_page_formats",
+                                "title": "2.2.3 \u57fa\u672c\u3068\u306a\u308b\u7d44\u4f53\u88c1\u306e\u4e3b\u306a\u8a2d\u8a08\u8981\u7d20"
+                            },
+                            {
+                                "href": "elements_of_kihonhanmen.xhtml#elements_of_kihonhanmen",
+                                "title": "2.2.4 \u57fa\u672c\u7248\u9762\u306e\u8a2d\u8a08\u8981\u7d20"
+                            },
+                            {
+                                "href": "kihonhanmen_and_examples_of_real_page_format.xhtml#kihonhanmen_and_examples_of_real_page_format",
+                                "title": "2.2.5 \u57fa\u672c\u7248\u9762\u3068\u5b9f\u969b\u306e\u30da\u30fc\u30b8\u306e\u8a2d\u8a08\u4f8b"
+                            }
+                        ]
+                    },
+                    {
+                        "href": "vertical_writing_mode_and_horizontal_writing_mode.xhtml#vertical_writing_mode_and_horizontal_writing_mode",
+                        "title": "2.3 \u7d44\u65b9\u5411\uff08\u7e26\u7d44\u3068\u6a2a\u7d44\uff09",
+                        "children": [
+                            {
+                                "href": "vertical_writing_mode_and_horizontal_writing_mode.xhtml#directional_factors_in_japanese_composition",
+                                "title": "2.3.1 \u65e5\u672c\u8a9e\u7d44\u7248\u306b\u304a\u3051\u308b\u7d44\u65b9\u5411"
+                            },
+                            {
+                                "href": "major_differences_between_vertical_writing_mode_and_horizontal_writing_mode.xhtml#major_differences_between_vertical_writing_mode_and_horizontal_writing_mode",
+                                "title": "2.3.2 \u7e26\u7d44\u3068\u6a2a\u7d44\u306e\u4e3b\u306a\u76f8\u9055\u70b9"
+                            }
+                        ]
+                    },
+                    {
+                        "href": "specifying_the_kihonhanmen.xhtml#specifying_the_kihonhanmen",
+                        "title": "2.4 \u57fa\u672c\u7248\u9762\u306e\u8a2d\u8a08",
+                        "children": [
+                            {
+                                "href": "specifying_the_kihonhanmen.xhtml#procedure_for_defining_the_kihonhanmen",
+                                "title": "2.4.1 \u57fa\u672c\u7248\u9762\u306e\u8a2d\u8a08\u624b\u9806"
+                            },
+                            {
+                                "href": "considerations_in_designing_the_kihonhanmen.xhtml#considerations_in_designing_the_kihonhanmen",
+                                "title": "2.4.2 \u57fa\u672c\u7248\u9762\u306e\u8a2d\u8a08\u306e\u6ce8\u610f\u70b9"
+                            }
+                        ]
+                    },
+                    {
+                        "href": "page_wise_arrangement_of_kihonhanmen_elements.xhtml#page_wise_arrangement_of_kihonhanmen_elements",
+                        "title": "2.5 \u57fa\u672c\u7248\u9762\u306e\u8a2d\u8a08\u8981\u7d20\u306e\u5404\u30da\u30fc\u30b8\u306b\u5bfe\u3059\u308b\u9069\u7528",
+                        "children": [
+                            {
+                                "href": "page_wise_arrangement_of_kihonhanmen_elements.xhtml#examples_of_items_jutting_out_of_the_kihonhanmen",
+                                "title": "2.5.1 \u57fa\u672c\u7248\u9762\u304b\u3089\u306f\u307f\u51fa\u3059\u4f8b"
+                            },
+                            {
+                                "href": "line_positioning_based_on_the_kihonhanmen_design.xhtml#line_positioning_based_on_the_kihonhanmen_design",
+                                "title": "2.5.2 \u57fa\u672c\u7248\u9762\u3067\u8a2d\u5b9a\u3057\u305f\u884c\u4f4d\u7f6e\u306e\u9069\u7528"
+                            },
+                            {
+                                "href": "character_positioning_based_on_kihonhanmen_design.xhtml#character_positioning_based_on_kihonhanmen_design",
+                                "title": "2.5.3 \u57fa\u672c\u7248\u9762\u3067\u8a2d\u5b9a\u3057\u305f\u6587\u5b57\u4f4d\u7f6e\u306e\u9069\u7528"
+                            }
+                        ]
+                    },
+                    {
+                        "href": "running_heads_and_page_numbers.xhtml#running_heads_and_page_numbers",
+                        "title": "2.6 \u67f1\u3068\u30ce\u30f3\u30d6\u30eb",
+                        "children": [
+                            {
+                                "href": "running_heads_and_page_numbers.xhtml#positioning_of_running_heads_and_page_numbers",
+                                "title": "2.6.1 \u67f1\u53ca\u3073\u30ce\u30f3\u30d6\u30eb\u306e\u4f4d\u7f6e"
+                            },
+                            {
+                                "href": "principles_of_arrangement_of_running_heads_and_page_numbers.xhtml#principles_of_arrangement_of_running_heads_and_page_numbers",
+                                "title": "2.6.2 \u67f1\u53ca\u3073\u30ce\u30f3\u30d6\u30eb\u306e\u914d\u7f6e\u306e\u539f\u5247"
+                            },
+                            {
+                                "href": "ways_of_arranging_running_heads_and_page_numbers.xhtml#ways_of_arranging_running_heads_and_page_numbers",
+                                "title": "2.6.3 \u67f1\u53ca\u3073\u30ce\u30f3\u30d6\u30eb\u306e\u914d\u7f6e\u65b9\u5f0f"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "href": "line-composition.xhtml#line-composition",
+                "title": "\u7b2c3\u7ae0 \u884c\u306e\u7d44\u7248\u51e6\u7406",
+                "children": [
+                    {
+                        "href": "line-composition.xhtml#line_composition_rules_for_punctuation_marks",
+                        "title": "3.1 \u7d04\u7269\u306a\u3069\u306e\u7d44\u7248\u51e6\u7406",
+                        "children": [
+                            {
+                                "href": "line-composition.xhtml#differences_in_vertical_and_horizontal_composition_in_use_of_punctuation_marks",
+                                "title": "3.1.1 \u7e26\u7d44\u3068\u6a2a\u7d44\u3067\u7570\u306a\u308b\u7d04\u7269\u306a\u3069"
+                            },
+                            {
+                                "href": "positioning_of_punctuation_marks.xhtml#positioning_of_punctuation_marks",
+                                "title": "3.1.2 \u53e5\u8aad\u70b9\u3084\uff0c\u62ec\u5f27\u985e\u306a\u3069\u306e\u57fa\u672c\u7684\u306a\u914d\u7f6e\u65b9\u6cd5"
+                            },
+                            {
+                                "href": "exceptional_positioning_of_ideographic_comma_and_katakana_middle_dot.xhtml#exceptional_positioning_of_ideographic_comma_and_katakana_middle_dot",
+                                "title": "3.1.3 \u8aad\u70b9\u53ca\u3073\u4e2d\u70b9\u306e\u4f8b\u5916\u7684\u306a\u914d\u7f6e\u65b9\u6cd5"
+                            },
+                            {
+                                "href": "positioning_of_consecutive_opening_brackets_closing_brackets_comma_full_stops_and_middle_dots.xhtml#positioning_of_consecutive_opening_brackets_closing_brackets_comma_full_stops_and_middle_dots",
+                                "title": "3.1.4 \u59cb\u3081\u62ec\u5f27\u985e\uff0c\u7d42\u308f\u308a\u62ec\u5f27\u985e\uff0c\u8aad\u70b9\u985e\uff0c\u53e5\u70b9\u985e\u53ca\u3073\u200b\u4e2d\u70b9\u985e\u304c\u200b\u9023\u7d9a\u3059\u308b\u200b\u5834\u5408\u306e\u200b\u914d\u7f6e\u65b9\u6cd5"
+                            },
+                            {
+                                "href": "positioning_of_opening_brackets_at_line_head.xhtml#positioning_of_opening_brackets_at_line_head",
+                                "title": "3.1.5 \u884c\u982d\u306e\u200b\u59cb\u3081\u62ec\u5f27\u985e\u306e\u200b\u914d\u7f6e\u65b9\u6cd5"
+                            },
+                            {
+                                "href": "positioning_of_dividing_punctuation_marks.xhtml#positioning_of_dividing_punctuation_marks",
+                                "title": "3.1.6 \u533a\u5207\u308a\u7d04\u7269\u53ca\u3073\u30cf\u30a4\u30d5\u30f3\u985e\u306e\u914d\u7f6e\u65b9\u6cd5"
+                            },
+                            {
+                                "href": "characters_not_starting_a_line.xhtml#characters_not_starting_a_line",
+                                "title": "3.1.7 \u884c\u982d\u7981\u5247"
+                            },
+                            {
+                                "href": "characters_not_ending_a_line.xhtml#characters_not_ending_a_line",
+                                "title": "3.1.8 \u884c\u672b\u7981\u5247"
+                            },
+                            {
+                                "href": "positioning_of_closing_brackets_full_stops_commas_and_middle_dots_at_line_end.xhtml#positioning_of_closing_brackets_full_stops_commas_and_middle_dots_at_line_end",
+                                "title": "3.1.9 \u884c\u672b\u306b\u914d\u7f6e\u3059\u308b\u7d42\u308f\u308a\u62ec\u5f27\u985e\uff0c\u53e5\u70b9\u985e\uff0c\u8aad\u70b9\u985e\u53ca\u3073\u200b\u4e2d\u70b9\u985e\u306e\u200b\u914d\u7f6e\u65b9\u6cd5"
+                            },
+                            {
+                                "href": "unbreakable_character_sequences.xhtml#unbreakable_character_sequences",
+                                "title": "3.1.10 \u5206\u5272\u7981\u6b62"
+                            },
+                            {
+                                "href": "character_sequences_which_do_not_allow_space_insertion_as_part_of_line_adjustment_processing.xhtml#character_sequences_which_do_not_allow_space_insertion_as_part_of_line_adjustment_processing",
+                                "title": "3.1.11 \u884c\u306e\u8abf\u6574\u51e6\u7406\u3067\u200b\u5b57\u9593\u3092\u200b\u7a7a\u3051\u308b\u51e6\u7406\u306b\u200b\u4f7f\u7528\u3057\u306a\u3044\u7b87\u6240"
+                            },
+                            {
+                                "href": "examples_of_line_adjustment.xhtml#examples_of_line_adjustment",
+                                "title": "3.1.12 \u884c\u306e\u8abf\u6574\u51e6\u7406\u4f8b"
+                            }
+                        ]
+                    },
+                    {
+                        "href": "japanese_and_western_mixed_text_composition.xhtml#japanese_and_western_mixed_text_composition",
+                        "title": "3.2 \u548c\u6b27\u6587\u6df7\u690d\u51e6\u7406\uff08\u7e26\u4e2d\u6a2a\u51e6\u7406\u3092\u542b\u3080\uff09",
+                        "children": [
+                            {
+                                "href": "japanese_and_western_mixed_text_composition.xhtml#composition_of_japanese_and_western_mixed_texts",
+                                "title": "3.2.1 \u548c\u6587\u3068\u6b27\u6587\u3068\u306e\u6df7\u690d"
+                            },
+                            {
+                                "href": "mixed_text_composition_in_horizontal_writing_mode.xhtml#mixed_text_composition_in_horizontal_writing_mode",
+                                "title": "3.2.2 \u6a2a\u7d44\u306e\u548c\u6b27\u6587\u6df7\u690d\u306b\u7528\u3044\u308b\u6587\u5b57"
+                            },
+                            {
+                                "href": "mixed_text_composition_in_vertical_writing_mode.xhtml#mixed_text_composition_in_vertical_writing_mode",
+                                "title": "3.2.3 \u7e26\u7d44\u306e\u548c\u6b27\u6587\u6df7\u690d\u306b\u7528\u3044\u308b\u6587\u5b57"
+                            },
+                            {
+                                "href": "method_for_setting_fullwidth_latin_letters_and_european_numerals.xhtml#method_for_setting_fullwidth_latin_letters_and_european_numerals",
+                                "title": "3.2.4 \u5168\u89d2\u306e\u30e2\u30ce\u30b9\u30da\u30fc\u30b9\u306e\u6b27\u5b57\u53ca\u3073\u200b\u5168\u89d2\u306e\u200b\u30e2\u30ce\u30b9\u30da\u30fc\u30b9\u306e\u200b\u30a2\u30e9\u30d3\u30a2\u6570\u5b57\u306e\u200b\u914d\u7f6e\u65b9\u6cd5"
+                            },
+                            {
+                                "href": "handling_of_tatechuyoko.xhtml#handling_of_tatechuyoko",
+                                "title": "3.2.5 \u7e26\u4e2d\u6a2a\u306e\u51e6\u7406"
+                            },
+                            {
+                                "href": "handling_of_western_text_in_japanese_text_using_proportional_western_fonts.xhtml#handling_of_western_text_in_japanese_text_using_proportional_western_fonts",
+                                "title": "3.2.6 \u30d7\u30ed\u30dd\u30fc\u30b7\u30e7\u30ca\u30eb\u306a\u200b\u6b27\u5b57\u3092\u7528\u3044\u305f\u200b\u548c\u6b27\u6587\u6df7\u690d\u51e6\u7406"
+                            }
+                        ]
+                    },
+                    {
+                        "href": "ruby_and_emphasis_dots.xhtml#ruby_and_emphasis_dots",
+                        "title": "3.3 \u30eb\u30d3\u3068\u570f\u70b9\u51e6\u7406",
+                        "children": [
+                            {
+                                "href": "ruby_and_emphasis_dots.xhtml#usage_of_ruby",
+                                "title": "3.3.1 \u30eb\u30d3\u306e\u4f7f\u7528"
+                            },
+                            {
+                                "href": "choice_of_base_characters_to_be_annotated_by_ruby.xhtml#choice_of_base_characters_to_be_annotated_by_ruby",
+                                "title": "3.3.2 \u30eb\u30d3\u306e\u4ed8\u3051\u65b9"
+                            },
+                            {
+                                "href": "choice_of_size_for_ruby_characters.xhtml#choice_of_size_for_ruby_characters",
+                                "title": "3.3.3 \u30eb\u30d3\u306e\u6587\u5b57\u30b5\u30a4\u30ba"
+                            },
+                            {
+                                "href": "choice_of_sides_for_ruby_with_respect_to_base_characters.xhtml#choice_of_sides_for_ruby_with_respect_to_base_characters",
+                                "title": "3.3.4 \u89aa\u6587\u5b57\u306e\u3069\u3061\u3089\u5074\u306b\u30eb\u30d3\u3092\u4ed8\u3051\u308b\u304b"
+                            },
+                            {
+                                "href": "positioning_of_monoruby_with_respect_to_base_characters.xhtml#positioning_of_monoruby_with_respect_to_base_characters",
+                                "title": "3.3.5 \u30e2\u30ce\u30eb\u30d3\u306e\u89aa\u6587\u5b57\u306b\u5bfe\u3059\u308b\u914d\u7f6e\u4f4d\u7f6e"
+                            },
+                            {
+                                "href": "positioning_of_groupruby_with_respect_to_base_characters.xhtml#positioning_of_groupruby_with_respect_to_base_characters",
+                                "title": "3.3.6 \u30b0\u30eb\u30fc\u30d7\u30eb\u30d3\u306e\u89aa\u6587\u5b57\u306b\u5bfe\u3059\u308b\u914d\u7f6e\u4f4d\u7f6e"
+                            },
+                            {
+                                "href": "positioning_of_jukugoruby_with_respect_to_base_characters.xhtml#positioning_of_jukugoruby_with_respect_to_base_characters",
+                                "title": "3.3.7 \u719f\u8a9e\u30eb\u30d3\u306e\u89aa\u6587\u5b57\u306b\u5bfe\u3059\u308b\u914d\u7f6e\u4f4d\u7f6e"
+                            },
+                            {
+                                "href": "adjustments_of_ruby_with_length_longer_than_that_of_the_base_characters.xhtml#adjustments_of_ruby_with_length_longer_than_that_of_the_base_characters",
+                                "title": "3.3.8 \u30eb\u30d3\u304c\u89aa\u6587\u5b57\u3088\u308a\u306f\u307f\u51fa\u3057\u305f\u5834\u5408\u306e\u51e6\u7406"
+                            },
+                            {
+                                "href": "composition_of_emphasis_dots.xhtml#composition_of_emphasis_dots",
+                                "title": "3.3.9 \u570f\u70b9\u306e\u51e6\u7406"
+                            }
+                        ]
+                    },
+                    {
+                        "href": "inline_cutting_note.xhtml#inline_cutting_note",
+                        "title": "3.4 \u5272\u6ce8\u51e6\u7406",
+                        "children": [
+                            {
+                                "href": "inline_cutting_note.xhtml#where_the_inline_cutting_note_is_used",
+                                "title": "3.4.1 \u5272\u6ce8\u306e\u5229\u7528"
+                            },
+                            {
+                                "href": "character_size_for_inline_cutting_notes_and_line_gaps.xhtml#character_size_for_inline_cutting_notes_and_line_gaps",
+                                "title": "3.4.2 \u5272\u6ce8\u306e\u6587\u5b57\u30b5\u30a4\u30ba\u3068\u884c\u9593\u306a\u3069"
+                            },
+                            {
+                                "href": "handling_an_inline_cutting_note_when_it_straddles_two_kihonhanmen_lines.xhtml#handling_an_inline_cutting_note_when_it_straddles_two_kihonhanmen_lines",
+                                "title": "3.4.3 \u5272\u6ce8\u3092\u672c\u6587\u306e2\u884c\u4ee5\u4e0a\u306b\u308f\u305f\u3063\u3066\u914d\u7f6e\u3059\u308b\u51e6\u7406"
+                            }
+                        ]
+                    },
+                    {
+                        "href": "paragraph_adjustment_rules.xhtml#paragraph_adjustment_rules",
+                        "title": "3.5 \u6bb5\u843d\u6574\u5f62\uff0c\u305d\u308d\u3048\u53ca\u3073\u6bb5\u843d\u672b\u5c3e\u51e6\u7406",
+                        "children": [
+                            {
+                                "href": "paragraph_adjustment_rules.xhtml#line_head_indent_at_the_beginning_of_paragraphs",
+                                "title": "3.5.1 \u6bb5\u843d\u5148\u982d\u884c\u306e\u5b57\u4e0b\u3052"
+                            },
+                            {
+                                "href": "line_head_indent_and_line_end_indent.xhtml#line_head_indent_and_line_end_indent",
+                                "title": "3.5.2 \u5b57\u4e0b\u3052\u3068\u5b57\u4e0a\u3052"
+                            },
+                            {
+                                "href": "single_line_alignment_processing.xhtml#single_line_alignment_processing",
+                                "title": "3.5.3 \u305d\u308d\u3048\u306e\u51e6\u7406"
+                            },
+                            {
+                                "href": "widow_adjustment_of_paragraphs.xhtml#widow_adjustment_of_paragraphs",
+                                "title": "3.5.4 \u6bb5\u843d\u672b\u5c3e\u51e6\u7406"
+                            }
+                        ]
+                    },
+                    {
+                        "href": "tab_setting.xhtml#tab_setting",
+                        "title": "3.6 \u30bf\u30d6\u51e6\u7406",
+                        "children": [
+                            {
+                                "href": "tab_setting.xhtml#usage_of_tab_setting",
+                                "title": "3.6.1 \u30bf\u30d6\u51e6\u7406\u306e\u5229\u7528"
+                            },
+                            {
+                                "href": "types_of_tab_settings.xhtml#types_of_tab_settings",
+                                "title": "3.6.2 \u30bf\u30d6\u51e6\u7406\u3067\u6307\u5b9a\u3059\u308b\u914d\u7f6e\u4f4d\u7f6e\u306b\u305d\u308d\u3048\u308b\u5f62\u5f0f"
+                            },
+                            {
+                                "href": "the_method_of_setting_the_target_text.xhtml#the_method_of_setting_the_target_text",
+                                "title": "3.6.3 \u30bf\u30d6\u51e6\u7406\u3092\u884c\u3046\u5bfe\u8c61\u306e\u6587\u5b57\u5217\u306e\u914d\u7f6e\u65b9\u6cd5"
+                            }
+                        ]
+                    },
+                    {
+                        "href": "other_rules_of_japanese_typesetting.xhtml#other_rules_of_japanese_typesetting",
+                        "title": "3.7 \u305d\u306e\u4ed6\u306e\u884c\u7d44\u7248\u51e6\u7406",
+                        "children": [
+                            {
+                                "href": "other_rules_of_japanese_typesetting.xhtml#superscripts_and_superscripts",
+                                "title": "3.7.1 \u6dfb\u3048\u5b57\u51e6\u7406"
+                            },
+                            {
+                                "href": "furiwake_processing.xhtml#furiwake_processing",
+                                "title": "3.7.2 \u632f\u5206\u3051\u51e6\u7406"
+                            },
+                            {
+                                "href": "jidori_processing.xhtml#jidori_processing",
+                                "title": "3.7.3 \u5b57\u53d6\u308a\u51e6\u7406"
+                            },
+                            {
+                                "href": "processing_of_math_symbols_and_math_operators.xhtml#processing_of_math_symbols_and_math_operators",
+                                "title": "3.7.4 \u7b49\u53f7\u985e\u3068\u6f14\u7b97\u8a18\u53f7\u306e\u51e6\u7406"
+                            }
+                        ]
+                    },
+                    {
+                        "href": "line_adjustment.xhtml#line_adjustment",
+                        "title": "3.8 \u884c\u306e\u8abf\u6574\u51e6\u7406",
+                        "children": [
+                            {
+                                "href": "line_adjustment.xhtml#necessity_for_line_adjustment",
+                                "title": "3.8.1 \u884c\u306e\u8abf\u6574\u51e6\u7406\u306e\u5fc5\u8981\u6027"
+                            },
+                            {
+                                "href": "reduction_and_addition_of_intercharacter_space.xhtml#reduction_and_addition_of_intercharacter_space",
+                                "title": "3.8.2 \u8a70\u3081\u308b\u51e6\u7406\u3068\u7a7a\u3051\u308b\u51e6\u7406"
+                            },
+                            {
+                                "href": "procedures_for_intercharacter_space_reduction.xhtml#procedures_for_intercharacter_space_reduction",
+                                "title": "3.8.3 \u8a70\u3081\u308b\u51e6\u7406\u306e\u512a\u5148\u9806\u4f4d"
+                            },
+                            {
+                                "href": "procedures_for_intercharacter_space_expansion.xhtml#procedures_for_intercharacter_space_expansion",
+                                "title": "3.8.4 \u7a7a\u3051\u308b\u51e6\u7406\u306e\u512a\u5148\u9806\u4f4d"
+                            }
+                        ]
+                    },
+                    {
+                        "href": "about_character_classes.xhtml#about_character_classes",
+                        "title": "3.9 \u6587\u5b57\u30af\u30e9\u30b9\u306b\u3064\u3044\u3066",
+                        "children": [
+                            {
+                                "href": "about_character_classes.xhtml#differences_in_positioning_of_characters_and_symbols",
+                                "title": "3.9.1 \u6587\u5b57\u30fb\u8a18\u53f7\u306b\u3088\u308a\u632f\u308b\u821e\u3044\u65b9\u306f\u7570\u306a\u308b"
+                            },
+                            {
+                                "href": "grouping_of_characters_and_symbols_depending_on_their_positioning.xhtml#grouping_of_characters_and_symbols_depending_on_their_positioning",
+                                "title": "3.9.2 \u6587\u5b57\u30fb\u8a18\u53f7\u3092\u632f\u308b\u821e\u3044\u65b9\u306b\u3088\u308a\u5206\u3051\u308b"
+                            },
+                            {
+                                "href": "positioning_methods_for_each_character_class.xhtml#positioning_methods_for_each_character_class",
+                                "title": "3.9.3 \u5404\u6587\u5b57\u30af\u30e9\u30b9\u306e\u914d\u7f6e\u65b9\u6cd5"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "href": "hanmen-design.xhtml#hanmen-design",
+                "title": "\u7b2c4\u7ae0 \u898b\u51fa\u3057\u30fb\u6ce8\u30fb\u56f3\u7248\u30fb\u8868\u30fb\u6bb5\u843d\u306e\u914d\u7f6e\u51e6\u7406",
+                "children": [
+                    {
+                        "href": "hanmen-design.xhtml#handling_of_headings",
+                        "title": "4.1 \u898b\u51fa\u3057\u51e6\u7406\uff08\u6539\u30da\u30fc\u30b8\u51e6\u7406\u3082\u542b\u3080\uff09",
+                        "children": [
+                            {
+                                "href": "hanmen-design.xhtml#types_of_headings",
+                                "title": "4.1.1 \u898b\u51fa\u3057\u306e\u7a2e\u985e"
+                            },
+                            {
+                                "href": "elements_of_block_heading.xhtml#elements_of_block_heading",
+                                "title": "4.1.2 \u5225\u884c\u898b\u51fa\u3057\u306e\u69cb\u6210"
+                            },
+                            {
+                                "href": "font_selection_and_font_size_of_heading.xhtml#font_selection_and_font_size_of_heading",
+                                "title": "4.1.3 \u898b\u51fa\u3057\u306b\u30a2\u30af\u30bb\u30f3\u30c8\u3092\u4ed8\u3051\u308b"
+                            },
+                            {
+                                "href": "how_to_handle_headings_with_new_recto_page_break_and_bew_column.xhtml#how_to_handle_headings_with_new_recto_page_break_and_bew_column",
+                                "title": "4.1.4 \u6539\u4e01\u30fb\u6539\u30da\u30fc\u30b8\u30fb\u6539\u6bb5\u51e6\u7406"
+                            },
+                            {
+                                "href": "handling_of_spaces_just_before_the_new_recto_page_breaks_and_new_edges.xhtml#handling_of_spaces_just_before_the_new_recto_page_breaks_and_new_edges",
+                                "title": "4.1.5 \u6539\u30da\u30fc\u30b8\u7b49\u306e\u76f4\u524d\u30da\u30fc\u30b8\u306e\u51e6\u7406"
+                            },
+                            {
+                                "href": "processing_of_gyoudori.xhtml#processing_of_gyoudori",
+                                "title": "4.1.6 \u884c\u53d6\u308a\u306e\u51e6\u7406\u4f8b"
+                            },
+                            {
+                                "href": "processing_of_gyoudori_heading_set_in_the_bottom_of_the_page.xhtml#processing_of_gyoudori_heading_set_in_the_bottom_of_the_page",
+                                "title": "4.1.7 \u884c\u53d6\u308a\u51e6\u7406\u3057\u305f\u898b\u51fa\u3057\u304c\u30da\u30fc\u30b8\u672b\u306b\u304d\u305f\u5834\u5408\u306e\u51e6\u7406"
+                            },
+                            {
+                                "href": "processing_when_one_line_space_before_low_level_heading_is_set.xhtml#processing_when_one_line_space_before_low_level_heading_is_set",
+                                "title": "4.1.8 \u5c0f\u898b\u51fa\u3057\u306e\u524d\u30921\u884c\u30a2\u30ad\u306b\u3057\u305f\u5834\u5408\u306e\u51e6\u7406"
+                            },
+                            {
+                                "href": "processing_of_runin_heading.xhtml#processing_of_runin_heading",
+                                "title": "4.1.9 \u540c\u884c\u898b\u51fa\u3057\u306e\u51e6\u7406"
+                            },
+                            {
+                                "href": "processing_of_cutin_heading.xhtml#processing_of_cutin_heading",
+                                "title": "4.1.10 \u7a93\u898b\u51fa\u3057\u306e\u51e6\u7406"
+                            },
+                            {
+                                "href": "processing_of_column_spanning_heading.xhtml#processing_of_column_spanning_heading",
+                                "title": "4.1.11 \u6bb5\u629c\u304d\u306e\u898b\u51fa\u3057\u306e\u51e6\u7406"
+                            }
+                        ]
+                    },
+                    {
+                        "href": "processing_of_notes.xhtml#processing_of_notes",
+                        "title": "4.2 \u6ce8\u306e\u51e6\u7406",
+                        "children": [
+                            {
+                                "href": "processing_of_notes.xhtml#kinds_of_notes",
+                                "title": "4.2.1 \u6ce8\u306e\u7a2e\u985e"
+                            },
+                            {
+                                "href": "note_numbers.xhtml#note_numbers",
+                                "title": "4.2.2 \u6ce8\u306e\u756a\u53f7"
+                            },
+                            {
+                                "href": "the_processing_of_the_reference_mark.xhtml#the_processing_of_the_reference_mark",
+                                "title": "4.2.3 \u5408\u5370\u306e\u51e6\u7406"
+                            },
+                            {
+                                "href": "processing_of_endnotes_in_vertical_writing_mode_or_horizontal_writing_mode.xhtml#processing_of_endnotes_in_vertical_writing_mode_or_horizontal_writing_mode",
+                                "title": "4.2.4 \u7e26\u7d44\u53c8\u306f\u6a2a\u7d44\u306e\u5f8c\u6ce8\u51e6\u7406"
+                            },
+                            {
+                                "href": "processing_of_footnotes_in_horizontal_writing_mode.xhtml#processing_of_footnotes_in_horizontal_writing_mode",
+                                "title": "4.2.5 \u6a2a\u7d44\u306e\u811a\u6ce8\u51e6\u7406"
+                            },
+                            {
+                                "href": "processing_of_sidenote_in_vertical_writing_mode.xhtml#processing_of_sidenote_in_vertical_writing_mode",
+                                "title": "4.2.6 \u7e26\u7d44\u306e\u508d\u6ce8\u51e6\u7406"
+                            },
+                            {
+                                "href": "processing_of_headnote_footnote_and_sidenote.xhtml#processing_of_headnote_footnote_and_sidenote",
+                                "title": "4.2.7 \u982d\u6ce8\uff08\u7e26\u7d44\uff09\u30fb\u811a\u6ce8\uff08\u7e26\u7d44\uff09\u30fb\u508d\u6ce8\uff08\u6a2a\u7d44\uff09\u306e\u51e6\u7406"
+                            }
+                        ]
+                    },
+                    {
+                        "href": "positioning_of_illustrations.xhtml#positioning_of_illustrations",
+                        "title": "4.3 \u56f3\u7248\u306e\u914d\u7f6e\u51e6\u7406",
+                        "children": [
+                            {
+                                "href": "positioning_of_illustrations.xhtml#specification_of_the_position_of_illustrations",
+                                "title": "4.3.1 \u56f3\u7248\u914d\u7f6e\u306e\u6307\u5b9a\u65b9\u6cd5"
+                            },
+                            {
+                                "href": "basic_concepts_about_illustration_positioning.xhtml#basic_concepts_about_illustration_positioning",
+                                "title": "4.3.2 \u56f3\u7248\u914d\u7f6e\u306e\u57fa\u672c\u7684\u306a\u8003\u3048\u65b9"
+                            },
+                            {
+                                "href": "requirements_for_illustration_positioning_in_vertical_mayout.xhtml#requirements_for_illustration_positioning_in_vertical_mayout",
+                                "title": "4.3.3 \u7e26\u7d44\u306b\u304a\u3051\u308b\u56f3\u7248\u914d\u7f6e\u306e\u6761\u4ef6"
+                            },
+                            {
+                                "href": "requirements_for_illustration_positioning_in_horizontal_layout.xhtml#requirements_for_illustration_positioning_in_horizontal_layout",
+                                "title": "4.3.4 \u6a2a\u7d44\u306b\u304a\u3051\u308b\u56f3\u7248\u914d\u7f6e\u306e\u6761\u4ef6"
+                            },
+                            {
+                                "href": "basic_ideas_about_illustration_positioning_in_JISX4051.xhtml#basic_ideas_about_illustration_positioning_in_JISX4051",
+                                "title": "4.3.5 JIS X 4051\u306b\u304a\u3051\u308b\u56f3\u7248\u914d\u7f6e\u306e\u57fa\u672c\u7684\u306a\u8003\u3048\u65b9"
+                            }
+                        ]
+                    },
+                    {
+                        "href": "processing_of_tables.xhtml#processing_of_tables",
+                        "title": "4.4 \u8868\u306e\u51e6\u7406",
+                        "children": [
+                            {
+                                "href": "processing_of_tables.xhtml#elements_of_tables",
+                                "title": "4.4.1 \u8868\u306e\u69cb\u6210"
+                            },
+                            {
+                                "href": "direction_of_tables_themselves.xhtml#direction_of_tables_themselves",
+                                "title": "4.4.2 \u8868\u306e\u5168\u4f53\u306e\u7d44\u65b9\u5411"
+                            },
+                            {
+                                "href": "an_example_of_layout_with_a_table.xhtml#an_example_of_layout_with_a_table",
+                                "title": "4.4.3 \u8868\u3092\u914d\u7f6e\u3057\u305f\u4f8b"
+                            },
+                            {
+                                "href": "kinds_of_tables_from_alocation_to_page_position.xhtml#kinds_of_tables_from_alocation_to_page_position",
+                                "title": "4.4.4 \u30da\u30fc\u30b8\u3078\u306e\u914d\u7f6e\u304b\u3089\u307f\u305f\u8868\u306e\u7a2e\u985e"
+                            },
+                            {
+                                "href": "processing_of_tables_allocated_in_a_spread.xhtml#processing_of_tables_allocated_in_a_spread",
+                                "title": "4.4.5 \u898b\u958b\u304d\u306b\u914d\u7f6e\u3059\u308b\u8868\u306e\u51e6\u7406"
+                            },
+                            {
+                                "href": "processing_of_dividable_tables.xhtml#processing_of_dividable_tables",
+                                "title": "4.4.6 \u5206\u5272\u3092\u53ef\u3068\u3059\u308b\u8868\u306e\u51e6\u7406"
+                            }
+                        ]
+                    },
+                    {
+                        "href": "block_direction_setting_process_of_lines_paragraphs.xhtml#block_direction_setting_process_of_lines_paragraphs",
+                        "title": "4.5 \u884c\u30fb\u6bb5\u843d\u306a\u3069\u306e\u884c\u9001\u308a\u65b9\u5411\u306e\u914d\u7f6e\u51e6\u7406",
+                        "children": [
+                            {
+                                "href": "block_direction_setting_process_of_lines_paragraphs.xhtml#line_gap_arrangement_with_ruby_and_other_objects",
+                                "title": "4.5.1 \u30eb\u30d3\u306a\u3069\u304c\u4ed8\u3044\u305f\u5834\u5408\u306e\u884c\u9593\u306e\u51e6\u7406"
+                            },
+                            {
+                                "href": "processing_of_spaces_between_paragraphs.xhtml#processing_of_spaces_between_paragraphs",
+                                "title": "4.5.2 \u6bb5\u843d\u9593\u51e6\u7406"
+                            },
+                            {
+                                "href": "adjustment_of_processing_of_realm_in_block_direction.xhtml#adjustment_of_processing_of_realm_in_block_direction",
+                                "title": "4.5.3 \u884c\u9001\u308a\u65b9\u5411\u306e\u9818\u57df\u306e\u8abf\u6574\u51e6\u7406"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "href": "character_classes.xhtml#appendices",
+                "title": "\u9644\u5c5e\u66f8",
+                "children": [
+                    {
+                        "href": "character_classes.xhtml#character_classes",
+                        "title": "A \u6587\u5b57\u30af\u30e9\u30b9\u4e00\u89a7"
+                    },
+                    {
+                        "href": "spacing_between_characters.xhtml#spacing_between_characters",
+                        "title": "B \u6587\u5b57\u9593\u306e\u7a7a\u304d\u91cf"
+                    },
+                    {
+                        "href": "possibilities_for_linebreaking_between_characters.xhtml#possibilities_for_linebreaking_between_characters",
+                        "title": "C \u6587\u5b57\u9593\u3067\u306e\u5206\u5272\u306e\u53ef\u5426"
+                    },
+                    {
+                        "href": "opportunities_for_intercharacter_space_reduction_during_line_adjustment.xhtml#opportunities_for_intercharacter_space_reduction_during_line_adjustment",
+                        "title": "D \u884c\u306e\u8abf\u6574\u51e6\u7406\u3067\u200b\u8a70\u3081\u308b\u51e6\u7406\u304c\u200b\u53ef\u80fd\u306a\u7b87\u6240"
+                    },
+                    {
+                        "href": "opportunities_for_intercharacter_space_expansion_during_line_adjustment.xhtml#opportunities_for_intercharacter_space_expansion_during_line_adjustment",
+                        "title": "E \u884c\u306e\u8abf\u6574\u51e6\u7406\u3067\u200b\u7a7a\u3051\u308b\u51e6\u7406\u304c\u200b\u53ef\u80fd\u306a\u7b87\u6240"
+                    },
+                    {
+                        "href": "positioning_of_jukugoruby.xhtml#positioning_of_jukugoruby",
+                        "title": "F \u719f\u8a9e\u30eb\u30d3\u306e\u914d\u7f6e\u65b9\u6cd5"
+                    },
+                    {
+                        "href": "terminology.xhtml#terminology",
+                        "title": "G \u7528\u8a9e\u96c6"
+                    },
+                    {
+                        "href": "references.xhtml#references",
+                        "title": "H \u53c2\u8003\u6587\u732e"
+                    },
+                    {
+                        "href": "revision_log.xhtml#revision_log",
+                        "title": "I \u5909\u66f4\u8a18\u9332"
+                    },
+                    {
+                        "href": "acknowledgments.xhtml#acknowledgments",
+                        "title": "J \u8b1d\u8f9e"
+                    }
+                ]
+            }
+        ]
     ],
     "meta": {
         "contributors": "[]",

@@ -18,11 +18,6 @@
             "Style/style.css",
             "text/css"
         ],
-        "nav": [
-            "nav",
-            "Navigation/nav.xhtml",
-            "application/xhtml+xml"
-        ],
         "ncx": [
             "ncx",
             "Navigation/toc.ncx",
@@ -76,7 +71,16 @@
     },
     "toc": [
         null,
-        []
+        [
+            {
+                "href": "../Image/PageBlanche_Page_002.jpg",
+                "title": "D\u00e9dicace"
+            },
+            {
+                "href": "../Image/PageBlanche_Page_005.jpg",
+                "title": "Commencer la lecture"
+            }
+        ]
     ],
     "meta": {
         "contributors": "[<AttributedString 'Vincent Gros' {'id': 'contributor', 'role': 'mrk', 'file-as': 'Gros, Vincent'}>]",
