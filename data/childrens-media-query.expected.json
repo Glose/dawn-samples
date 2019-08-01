@@ -1,5 +1,5 @@
 {
-    "uid": "urn:uuid:12C1DF3E-DF35-4FCF-918B-643FF15A7870",
+    "uid": "<AttributedString 'urn:uuid:12C1DF3E-DF35-4FCF-918B-643FF15A7870' {'id': 'pub-id', 'scheme': '15'}>",
     "version": "3.0",
     "spine": [
         "page1"
@@ -46,15 +46,15 @@
         []
     ],
     "meta": {
-        "contributors": "[<AttributedString 'Liza Daly' {'id': 'contrib1'}>, <AttributedString 'University of California Libraries' {}>]",
-        "creators": "[<AttributedString 'Thomas Crane' {'id': 'creator'}>, <AttributedString 'Ellen Elizabeth Houghton' {'id': 'illustrator'}>]",
+        "contributors": "[<AttributedString 'Liza Daly' {'id': 'contrib1', 'role': 'mrk'}>, <AttributedString 'University of California Libraries' {}>]",
+        "creators": "[<AttributedString 'Thomas Crane' {'id': 'creator', 'file-as': 'Crane, Thomas', 'role': 'aut'}>, <AttributedString 'Ellen Elizabeth Houghton' {'id': 'illustrator', 'file-as': 'Houghton, Ellen Elizabeth', 'role': 'ill'}>]",
         "dates": "{'creation': None, 'publication': datetime.datetime(1882, 1, 1, 0, 0), 'modification': None}",
         "description": "None",
-        "identifiers": "[<AttributedString 'urn:uuid:12C1DF3E-DF35-4FCF-918B-643FF15A7870' {'id': 'pub-id'}>]",
+        "identifiers": "[<AttributedString 'urn:uuid:12C1DF3E-DF35-4FCF-918B-643FF15A7870' {'id': 'pub-id', 'scheme': '15'}>]",
         "publisher": "<AttributedString 'London ; Belfast ; New York : Marcus Ward & Co.' {}>",
         "languages": "[<AttributedString 'en' {}>]",
         "source": "None",
         "subjects": "[<AttributedString 'France -- Description and travel Juvenile literature' {}>]",
-        "titles": "[<AttributedString 'Abroad' {'id': 'title'}>]"
+        "titles": "[<AttributedString 'Abroad' {'id': 'title', 'title-type': 'main'}>]"
     }
 }

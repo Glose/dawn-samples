@@ -1,5 +1,5 @@
 {
-    "uid": "urn:isbn:9780316000000",
+    "uid": "<AttributedString 'urn:isbn:9780316000000' {'id': 'pub-id', 'scheme': '15'}>",
     "version": "3.0",
     "spine": [
         "cover",
@@ -924,15 +924,15 @@
         []
     ],
     "meta": {
-        "contributors": "[<AttributedString 'Dave Cramer' {'id': 'contrib1'}>]",
-        "creators": "[<AttributedString 'Herman Melville' {'id': 'creator'}>]",
+        "contributors": "[<AttributedString 'Dave Cramer' {'id': 'contrib1', 'role': 'mrk'}>]",
+        "creators": "[<AttributedString 'Herman Melville' {'id': 'creator', 'file-as': 'MELVILLE, HERMAN', 'role': 'aut'}>]",
         "dates": "{'creation': None, 'publication': None, 'modification': None}",
         "description": "None",
-        "identifiers": "[<AttributedString 'urn:isbn:9780316000000' {'id': 'pub-id'}>]",
+        "identifiers": "[<AttributedString 'urn:isbn:9780316000000' {'id': 'pub-id', 'scheme': '15'}>]",
         "publisher": "<AttributedString 'Harper & Brothers, Publishers' {}>",
         "languages": "[<AttributedString 'en-US' {}>]",
         "source": "None",
         "subjects": "[]",
-        "titles": "[<AttributedString 'Moby-Dick' {'id': 'title'}>]"
+        "titles": "[<AttributedString 'Moby-Dick' {'id': 'title', 'title-type': 'main'}>]"
     }
 }

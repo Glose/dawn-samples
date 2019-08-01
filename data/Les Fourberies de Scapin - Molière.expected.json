@@ -1,5 +1,5 @@
 {
-    "uid": "urn:uuid:0adbf9b2-4916-472b-9699-fe752776d62a",
+    "uid": "<AttributedString 'urn:uuid:0adbf9b2-4916-472b-9699-fe752776d62a' {'id': 'uid', 'scheme': 'uuid'}>",
     "version": "2.0",
     "spine": [
         "html0",

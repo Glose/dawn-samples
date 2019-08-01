@@ -1,5 +1,5 @@
 {
-    "uid": "code.google.com.epub-samples.georgia-cfi",
+    "uid": "<AttributedString 'code.google.com.epub-samples.georgia-cfi' {'id': 'uid'}>",
     "version": "3.0",
     "spine": [
         "cover",
@@ -48,7 +48,7 @@
     ],
     "meta": {
         "contributors": "[]",
-        "creators": "[<AttributedString 'Various' {'id': 'aut1'}>]",
+        "creators": "[<AttributedString 'Various' {'id': 'aut1', 'role': 'aut'}>]",
         "dates": "{'creation': None, 'publication': None, 'modification': None}",
         "description": "None",
         "identifiers": "[<AttributedString 'code.google.com.epub-samples.georgia-cfi' {'id': 'uid'}>]",
@@ -56,6 +56,6 @@
         "languages": "[<AttributedString 'en-US' {'id': 'dclang'}>]",
         "source": "None",
         "subjects": "[]",
-        "titles": "[<AttributedString 'Georgia' {'id': 't1'}>, <AttributedString 'Encyclopaedia Britannica, 11th Edition, Volume 11, Slice 7 / Georgia' {'id': 'full-title'}>, <AttributedString 'Encyclopaedia Britannica' {'id': 't2'}>, <AttributedString '11th Edition' {'id': 't3'}>]"
+        "titles": "[<AttributedString 'Georgia' {'id': 't1', 'title-type': 'main', 'display-seq': '3'}>, <AttributedString 'Encyclopaedia Britannica, 11th Edition, Volume 11, Slice 7 / Georgia' {'id': 'full-title', 'title-type': 'expanded'}>, <AttributedString 'Encyclopaedia Britannica' {'id': 't2', 'title-type': 'collection', 'display-seq': '1'}>, <AttributedString '11th Edition' {'id': 't3', 'title-type': 'edition', 'display-seq': '2'}>]"
     }
 }

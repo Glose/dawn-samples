@@ -1,5 +1,5 @@
 {
-    "uid": "urn:uuid:c9bd142c-7dc0-4ddc-801a-c7d451f20218",
+    "uid": "<AttributedString 'urn:uuid:c9bd142c-7dc0-4ddc-801a-c7d451f20218' {'id': 'uuid_id', 'scheme': 'uuid'}>",
     "version": "2.0",
     "spine": [
         "id0",
@@ -114,7 +114,7 @@
         "contributors": "[]",
         "creators": "[<AttributedString 'Glose' {}>]",
         "dates": "{'creation': None, 'publication': None, 'modification': None}",
-        "description": "<AttributedString 'None' {}>",
+        "description": "<AttributedString '' {}>",
         "identifiers": "[<AttributedString '9782954657790' {'scheme': 'ISBN'}>, <AttributedString 'urn:uuid:c9bd142c-7dc0-4ddc-801a-c7d451f20218' {'id': 'uuid_id', 'scheme': 'uuid'}>]",
         "publisher": "<AttributedString 'Glose' {}>",
         "languages": "[<AttributedString 'en' {}>]",

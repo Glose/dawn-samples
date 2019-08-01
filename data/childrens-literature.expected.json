@@ -1,5 +1,5 @@
 {
-    "uid": "http://www.gutenberg.org/ebooks/25545",
+    "uid": "<AttributedString 'http://www.gutenberg.org/ebooks/25545' {'id': 'id'}>",
     "version": "3.0",
     "spine": [
         "cover",
@@ -49,7 +49,7 @@
     ],
     "meta": {
         "contributors": "[]",
-        "creators": "[<AttributedString 'Charles Madison Curry' {'id': 'curry'}>, <AttributedString 'Erle Elsworth Clippinger' {'id': 'clippinger'}>]",
+        "creators": "[<AttributedString 'Charles Madison Curry' {'id': 'curry', 'file-as': 'Curry, Charles Madison'}>, <AttributedString 'Erle Elsworth Clippinger' {'id': 'clippinger', 'file-as': 'Clippinger, Erle Elsworth'}>]",
         "dates": "{'creation': None, 'publication': datetime.datetime(2008, 5, 20, 0, 0), 'modification': None}",
         "description": "None",
         "identifiers": "[<AttributedString 'http://www.gutenberg.org/ebooks/25545' {'id': 'id'}>]",
@@ -57,6 +57,6 @@
         "languages": "[<AttributedString 'en' {}>]",
         "source": "<AttributedString 'http://www.gutenberg.org/files/25545/25545-h/25545-h.htm' {}>",
         "subjects": "[<AttributedString 'Children -- Books and reading' {}>, <AttributedString \"Children's literature -- Study and teaching\" {}>]",
-        "titles": "[<AttributedString \"Children's Literature\" {'id': 't1'}>, <AttributedString 'A Textbook of Sources for Teachers and Teacher-Training Classes' {'id': 't2'}>]"
+        "titles": "[<AttributedString \"Children's Literature\" {'id': 't1', 'title-type': 'main', 'display-seq': '1'}>, <AttributedString 'A Textbook of Sources for Teachers and Teacher-Training Classes' {'id': 't2', 'title-type': 'subtitle', 'display-seq': '2'}>]"
     }
 }

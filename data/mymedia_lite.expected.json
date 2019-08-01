@@ -1,5 +1,5 @@
 {
-    "uid": "urn:uuid:8B3EBB46-DA57-11E2-AB84-32F5FD9156E7",
+    "uid": "<AttributedString 'urn:uuid:8B3EBB46-DA57-11E2-AB84-32F5FD9156E7' {'id': 'pub-id'}>",
     "version": "3.0",
     "spine": [
         "XHTML0000",
@@ -113,7 +113,7 @@
     ],
     "meta": {
         "contributors": "[]",
-        "creators": "[<AttributedString '\u6d25\u91ce\u6d77\u592a\u90ce' {'id': 'creator1'}>]",
+        "creators": "[<AttributedString '\u6d25\u91ce\u6d77\u592a\u90ce' {'id': 'creator1', 'role': 'aut', 'file-as': '\u30c4\u30ce\u30ab\u30a4\u30bf\u30ed\u30a6', 'alternate-script': '\u30c4\u30ce\u30ab\u30a4\u30bf\u30ed\u30a6', 'display-seq': '1'}>]",
         "dates": "{'creation': None, 'publication': datetime.datetime(2013, 6, 21, 9, 47, 11), 'modification': None}",
         "description": "None",
         "identifiers": "[<AttributedString 'urn:uuid:8B3EBB46-DA57-11E2-AB84-32F5FD9156E7' {'id': 'pub-id'}>]",
@@ -121,6 +121,6 @@
         "languages": "[<AttributedString 'ja' {}>]",
         "source": "None",
         "subjects": "[]",
-        "titles": "[<AttributedString '\u30ac\u30ea\u7248\u306e\u8a71' {'id': 'title'}>]"
+        "titles": "[<AttributedString '\u30ac\u30ea\u7248\u306e\u8a71' {'id': 'title', 'file-as': '\u30ac\u30ea\u30d0\u30f3\u30ce\u30cf\u30ca\u30b7', 'alternate-script': '\u30ac\u30ea\u30d0\u30f3\u30ce\u30cf\u30ca\u30b7'}>]"
     }
 }

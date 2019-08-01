@@ -1,5 +1,5 @@
 {
-    "uid": "41f1328c-0571-4e71-8be8-e65bc148281a",
+    "uid": "<AttributedString '41f1328c-0571-4e71-8be8-e65bc148281a' {'id': 'd21041e30'}>",
     "version": "3.0",
     "spine": [
         "item_34",
@@ -225,8 +225,8 @@
         "identifiers": "[<AttributedString '41f1328c-0571-4e71-8be8-e65bc148281a' {'id': 'd21041e30'}>]",
         "publisher": "None",
         "languages": "[<AttributedString 'en-US' {}>]",
-        "source": "<AttributedString 'urn:isbn:9780618596645' {'id': 'src'}>",
+        "source": "<AttributedString 'urn:isbn:9780618596645' {'id': 'src', 'source-of': 'pagination'}>",
         "subjects": "[]",
-        "titles": "[<AttributedString 'World Cultures and Geography' {'id': 'd20201e20'}>, <AttributedString 'Legends of Landforms' {'id': 'd20201e1149'}>, <AttributedString 'Why Snails Have Shells' {'id': 'd20201e1158'}>]"
+        "titles": "[<AttributedString 'World Cultures and Geography' {'id': 'd20201e20', 'title-type': 'main'}>, <AttributedString 'Legends of Landforms' {'id': 'd20201e1149'}>, <AttributedString 'Why Snails Have Shells' {'id': 'd20201e1158'}>]"
     }
 }

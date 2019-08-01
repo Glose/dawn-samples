@@ -1,5 +1,5 @@
 {
-    "uid": "urn:uuid:e9f75adf-f0a2-4a30-b113-b146871f16e5",
+    "uid": "<AttributedString 'urn:uuid:e9f75adf-f0a2-4a30-b113-b146871f16e5' {'id': 'BookId'}>",
     "version": "3.0",
     "spine": [
         "idcover",

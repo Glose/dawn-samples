@@ -1,5 +1,5 @@
 {
-    "uid": "code.google.com.epub-samples.page-blanche_bitmaps-in-spine",
+    "uid": "<AttributedString 'code.google.com.epub-samples.page-blanche_bitmaps-in-spine' {'id': 'bookid', 'scheme': '01'}>",
     "version": "3.0",
     "spine": [
         "id-cover-jpg",
@@ -79,15 +79,15 @@
         []
     ],
     "meta": {
-        "contributors": "[<AttributedString 'Vincent Gros' {'id': 'contributor'}>]",
-        "creators": "[<AttributedString 'Boulet' {'id': 'creator1'}>, <AttributedString 'Bagieu P\u00e9n\u00e9lope' {'id': 'creator2'}>]",
+        "contributors": "[<AttributedString 'Vincent Gros' {'id': 'contributor', 'role': 'mrk', 'file-as': 'Gros, Vincent'}>]",
+        "creators": "[<AttributedString 'Boulet' {'id': 'creator1', 'file-as': 'Boulet', 'role': 'aut', 'display-seq': '1'}>, <AttributedString 'Bagieu P\u00e9n\u00e9lope' {'id': 'creator2', 'file-as': 'Bagieu, P\u00e9n\u00e9lope', 'role': 'ill', 'display-seq': '2'}>]",
         "dates": "{'creation': None, 'publication': datetime.datetime(2012, 1, 18, 0, 0), 'modification': None}",
         "description": "None",
-        "identifiers": "[<AttributedString 'code.google.com.epub-samples.page-blanche_bitmaps-in-spine' {'id': 'bookid'}>]",
+        "identifiers": "[<AttributedString 'code.google.com.epub-samples.page-blanche_bitmaps-in-spine' {'id': 'bookid', 'scheme': '01'}>]",
         "publisher": "<AttributedString '\u00e9ditions Delcourt' {}>",
         "languages": "[<AttributedString 'fr' {}>]",
         "source": "None",
         "subjects": "[]",
-        "titles": "[<AttributedString 'Page Blanche (bitmaps directly in spine)' {'id': 'title'}>]"
+        "titles": "[<AttributedString 'Page Blanche (bitmaps directly in spine)' {'id': 'title', 'title-type': 'main'}>]"
     }
 }

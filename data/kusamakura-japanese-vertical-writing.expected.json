@@ -1,5 +1,5 @@
 {
-    "uid": "http://www.aozora.gr.jp/cards/000148/card776.html",
+    "uid": "<AttributedString 'http://www.aozora.gr.jp/cards/000148/card776.html' {'id': '\u9752\u7a7a\u6587\u5eab\u306e\u756a\u53f7'}>",
     "version": "3.0",
     "spine": [
         "\u8868\u7d19",
@@ -165,6 +165,6 @@
         "languages": "[<AttributedString 'ja-jp' {}>]",
         "source": "None",
         "subjects": "[]",
-        "titles": "[<AttributedString '\u8349\u6795' {'id': '\u984c\u540d'}>]"
+        "titles": "[<AttributedString '\u8349\u6795' {'id': '\u984c\u540d', 'title-type': 'main', 'file-as': '\u304f\u3055\u307e\u304f\u3089', 'alternate-script': 'Kusamakura'}>]"
     }
 }

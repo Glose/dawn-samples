@@ -1,5 +1,5 @@
 {
-    "uid": null,
+    "uid": "None",
     "version": "2.0",
     "spine": [
         "id0"
@@ -29,7 +29,7 @@
         "contributors": "[]",
         "creators": "[<AttributedString 'Glose' {}>]",
         "dates": "{'creation': None, 'publication': None, 'modification': None}",
-        "description": "<AttributedString 'None' {}>",
+        "description": "<AttributedString '' {}>",
         "identifiers": "[<AttributedString '9782954657752' {'scheme': 'ISBN'}>, <AttributedString 'urn:uuid:70faf315-1271-491d-884f-301b026796f3' {'id': 'uuid_id', 'scheme': 'uuid'}>]",
         "publisher": "<AttributedString 'Glose' {}>",
         "languages": "[<AttributedString 'en' {}>]",

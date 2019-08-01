@@ -1,5 +1,5 @@
 {
-    "uid": "urn:isbn:9781449328030",
+    "uid": "<AttributedString 'urn:isbn:9781449328030' {'id': 'pub-identifier'}>",
     "version": "3.0",
     "spine": [
         "cover",

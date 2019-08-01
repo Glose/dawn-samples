@@ -1,5 +1,5 @@
 {
-    "uid": "code.google.com.epub-samples.moby-dick-basic",
+    "uid": "<AttributedString 'code.google.com.epub-samples.moby-dick-basic' {'id': 'pub-id'}>",
     "version": "3.0",
     "spine": [
         "cover",
@@ -909,8 +909,8 @@
         []
     ],
     "meta": {
-        "contributors": "[<AttributedString 'Dave Cramer' {'id': 'contrib1'}>]",
-        "creators": "[<AttributedString 'Herman Melville' {'id': 'creator'}>]",
+        "contributors": "[<AttributedString 'Dave Cramer' {'id': 'contrib1', 'role': 'mrk'}>]",
+        "creators": "[<AttributedString 'Herman Melville' {'id': 'creator', 'file-as': 'MELVILLE, HERMAN', 'role': 'aut'}>]",
         "dates": "{'creation': None, 'publication': None, 'modification': None}",
         "description": "None",
         "identifiers": "[<AttributedString 'code.google.com.epub-samples.moby-dick-basic' {'id': 'pub-id'}>]",
@@ -918,6 +918,6 @@
         "languages": "[<AttributedString 'en-US' {}>]",
         "source": "None",
         "subjects": "[]",
-        "titles": "[<AttributedString 'Moby-Dick' {'id': 'title'}>]"
+        "titles": "[<AttributedString 'Moby-Dick' {'id': 'title', 'title-type': 'main'}>]"
     }
 }

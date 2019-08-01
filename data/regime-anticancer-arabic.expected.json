@@ -1,5 +1,5 @@
 {
-    "uid": "code.google.com.epub-samples.regime-anticancer-arabic",
+    "uid": "<AttributedString 'code.google.com.epub-samples.regime-anticancer-arabic' {'id': 'bookid', 'scheme': '01'}>",
     "version": "3.0",
     "spine": [
         "coverpage",
@@ -53,15 +53,15 @@
         []
     ],
     "meta": {
-        "contributors": "[<AttributedString 'Vincent Gros' {'id': 'contributor'}>]",
-        "creators": "[<AttributedString 'Pr David Khayat' {'id': 'creator1'}>, <AttributedString 'Nathalie Hutter-Lardeau' {'id': 'creator2'}>, <AttributedString 'Marina Khalil Fayad' {'id': 'creator3'}>]",
+        "contributors": "[<AttributedString 'Vincent Gros' {'id': 'contributor', 'role': 'mrk', 'file-as': 'Gros, Vincent'}>]",
+        "creators": "[<AttributedString 'Pr David Khayat' {'id': 'creator1', 'role': 'aut', 'alternate-script': '\u062f\u0627\u0641\u064a\u062f  \u062e\u064a\u0651\u0627\u0637 \u0644\u0628\u0631\u0648\u0641\u064a\u0633\u0648\u0631\u0627', 'display-seq': '1'}>, <AttributedString 'Nathalie Hutter-Lardeau' {'id': 'creator2', 'role': 'aut', 'alternate-script': '\u0627\u0631\u062f\u0648 \u0647\u0627\u062a\u0631 \u0646\u0627\u062a\u0627\u0644\u064a', 'display-seq': '2'}>, <AttributedString 'Marina Khalil Fayad' {'id': 'creator3', 'role': 'trl', 'alternate-script': '\u0641\u064a\u0651\u0627\u0636 \u062e\u0644\u064a\u0644 \u0645\u0627\u0631\u064a\u0646\u0627'}>]",
         "dates": "{'creation': None, 'publication': datetime.datetime(2012, 1, 1, 0, 0), 'modification': None}",
         "description": "None",
-        "identifiers": "[<AttributedString 'code.google.com.epub-samples.regime-anticancer-arabic' {'id': 'bookid'}>]",
+        "identifiers": "[<AttributedString 'code.google.com.epub-samples.regime-anticancer-arabic' {'id': 'bookid', 'scheme': '01'}>]",
         "publisher": "<AttributedString 'Hachette Antoine' {}>",
         "languages": "[<AttributedString 'ar' {}>]",
         "source": "None",
         "subjects": "[]",
-        "titles": "[<AttributedString 'Le Vrai R\u00e9gime anti-cancer' {'id': 'title'}>]"
+        "titles": "[<AttributedString 'Le Vrai R\u00e9gime anti-cancer' {'id': 'title', 'alternate-script': '\u0627\u0644\u0633\u0631\u0637\u0627\u0646 \u0645\u0646  \u0644\u0644\u0648\u0642\u0627\u064a\u0629 \u0627\u0644\u0635\u062d\u064a\u062d \u0627\u0644\u063a\u0630\u0627\u0626\u064a  \u0627\u0644\u0646\u0638\u0627\u0645'}>]"
     }
 }

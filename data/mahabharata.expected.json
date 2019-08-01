@@ -1,5 +1,5 @@
 {
-    "uid": "code.google.com.epub-samples.mahabarata",
+    "uid": "<AttributedString 'code.google.com.epub-samples.mahabarata' {'id': 'uid'}>",
     "version": "3.0",
     "spine": [
         "b00000",
@@ -12118,6 +12118,6 @@
         "languages": "[<AttributedString 'sa' {}>]",
         "source": "None",
         "subjects": "[]",
-        "titles": "[<AttributedString '\u092e\u0939\u093e\u092d\u093e\u0930\u0924' {'id': 'title'}>]"
+        "titles": "[<AttributedString '\u092e\u0939\u093e\u092d\u093e\u0930\u0924' {'id': 'title', 'alternate-script': 'Mahabharata'}>]"
     }
 }

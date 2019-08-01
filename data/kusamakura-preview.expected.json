@@ -1,5 +1,5 @@
 {
-    "uid": "urn:uuid:f86268a4-683a-4bba-acf1-f78e8e39e580",
+    "uid": "<AttributedString 'urn:uuid:f86268a4-683a-4bba-acf1-f78e8e39e580' {'id': 'identifier0'}>",
     "version": "3.0",
     "spine": [
         "\u8868\u7d19",
@@ -77,6 +77,6 @@
         "languages": "[<AttributedString 'ja-jp' {}>]",
         "source": "None",
         "subjects": "[]",
-        "titles": "[<AttributedString '\u8349\u6795' {'id': '\u984c\u540d'}>]"
+        "titles": "[<AttributedString '\u8349\u6795' {'id': '\u984c\u540d', 'title-type': 'main', 'file-as': '\u304f\u3055\u307e\u304f\u3089', 'alternate-script': 'Kusamakura'}>]"
     }
 }

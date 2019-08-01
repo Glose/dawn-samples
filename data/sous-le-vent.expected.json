@@ -1,5 +1,5 @@
 {
-    "uid": "code.gogle.com.epub-sample.sous-le-vent",
+    "uid": "<AttributedString 'code.gogle.com.epub-sample.sous-le-vent' {'id': 'bookid', 'scheme': '01'}>",
     "version": "3.0",
     "spine": [
         "ch1",
@@ -133,15 +133,15 @@
         []
     ],
     "meta": {
-        "contributors": "[<AttributedString 'Vincent Gros' {'id': 'contributor'}>]",
-        "creators": "[<AttributedString 'Jean-Bernard Pouy' {'id': 'creator1'}>, <AttributedString 'Joe G. Pinelli' {'id': 'creator2'}>]",
+        "contributors": "[<AttributedString 'Vincent Gros' {'id': 'contributor', 'role': 'mrk', 'file-as': 'Gros, Vincent'}>]",
+        "creators": "[<AttributedString 'Jean-Bernard Pouy' {'id': 'creator1', 'file-as': 'Pouy, Jean-Bernard', 'role': 'aut', 'display-seq': '1'}>, <AttributedString 'Joe G. Pinelli' {'id': 'creator2', 'file-as': 'Pinelli, Joe G.', 'role': 'ill', 'display-seq': '2'}>]",
         "dates": "{'creation': None, 'publication': datetime.datetime(2012, 2, 1, 0, 0), 'modification': None}",
         "description": "None",
-        "identifiers": "[<AttributedString 'code.gogle.com.epub-sample.sous-le-vent' {'id': 'bookid'}>]",
+        "identifiers": "[<AttributedString 'code.gogle.com.epub-sample.sous-le-vent' {'id': 'bookid', 'scheme': '01'}>]",
         "publisher": "<AttributedString '\u00e9ditions Jean-Claude Latt\u00e8s' {}>",
         "languages": "[<AttributedString 'fr' {}>]",
         "source": "None",
         "subjects": "[]",
-        "titles": "[<AttributedString 'Sous le vent' {'id': 'title'}>]"
+        "titles": "[<AttributedString 'Sous le vent' {'id': 'title', 'title-type': 'main'}>]"
     }
 }
